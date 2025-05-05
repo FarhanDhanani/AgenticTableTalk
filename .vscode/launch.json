@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Graph Otter",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "main.py",
+            "console": "integratedTerminal",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "0"
+            },
+            //"pythonArgs": ["-W", "ignore"],
+            "args": [
+                //"--model", "gpt-3.5-turbo",
+                //"--model", "gpt-4o", // model used for meta-generation
+                //"--key_path", "keys/openai_pass.txt",
+                //"--model", "llama3", 
+                //"--model", "Qwen/Qwen2-72B-Instruct", // necessary in the case when Qwen2 is used
+                //"--key_path", "keys/runpod_vllm_pass.txt", // necessary in the case when Qwen2 is deployed on runpod via VLLM
+                "--model", "gemini-1.5-flash",
+                "--key_path", "keys/gemni_pass.txt",
+                "--embedder_path", "jmorgan/gte-small:latest",
+                "--temperature", "0.0",
+                "--max_iteration_depth", "6",
+                "--seed", "42",
+                "--eval_model", "gpt-3.5-turbo",
+                "--eval_model_key_path", "keys/openai_pass.txt",
+                //"--start", "0", // necessary in the case when debugging is required, specially when model is hosted via VLLM
+                "--end", "1", // necessary in the case when debugging is required, specially when model is hosted via VLLM
+                
+                //"--base_url", "https://94zmpqe0wq9oxc-8000.proxy.runpod.net/v1", // only use it in the case when llm is hosted on ollama or vllm 
+
+                // Vallues for ait-qa dataset
+                 "--dataset", "ait-qa", 
+                 "--qa_path", "dataset/AIT-QA/aitqa_clean_questions.json",
+                 "--table_folder", "dataset/AIT-QA/aitqa_clean_tables.json",
+                 "--embed_cache_dir", "dataset/AIT-QA/",
+
+                // Values for hitab dataset
+                //"--dataset", "hitab",
+                //"--qa_path", "dataset/hitab/test_samples.jsonl",
+                //"--table_folder", "dataset/hitab/raw/",
+                //"--embed_cache_dir", "dataset/hitab/",
+                
+                
+                // "--pre_process_tables","true", //flag to start pre-processing the tables.
+                // "--save_markdown", "true", //flag to save the markdown file generated from after converting the table
+                // "--generate_meta", "true", //flag to generate the meta information extracted from the markdown table
+                // "--exit_after_preprocess", "true" // quit the program after generating pre-processing files.
+            ]
+        }
+    ]
+}

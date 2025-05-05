@@ -1,0 +1,35 @@
+# Ignore dataset hitab heave files
+dataset/hitab/raw/*
+!dataset/hitab/raw/1.txt
+
+# Ignore dataset hitab cache files
+dataset/hitab/cache*.pkl
+
+# Ignore dataset AIT-QA cache files
+dataset/AIT-QA/cache*.pkl
+
+# Ignore all .vscode files except settings.json and launch.json files
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Ignore all env relaeted files
+gOTTER_env/*
+
+# Ignore keys
+keys/*
+!keys/.gitkeep
+
+# Ignore models
+model/*
+!model/.gitkeep
+
+# Ignore vllm directory
+/vllm/
+
+# Ignore Idea folder
+.idea/
