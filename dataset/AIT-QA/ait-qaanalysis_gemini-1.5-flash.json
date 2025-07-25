@@ -66,10 +66,10 @@
         "query": "What was United's total traffic in 2018?",
         "table_name": "tab-1",
         "expected_gold_answer": "230,155",
-        "output_prediction": "230,155, 3,425, 158,330",
+        "output_prediction": "230,155",
         "iterations": 1,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "Show the capacity of United Airlines for 2016. : tab-1": {
         "query": "Show the capacity of United Airlines for 2016.",
@@ -120,19 +120,19 @@
         "query": "What was average yield per RPM for United airlines in the year of 2015 ?",
         "table_name": "tab-1",
         "expected_gold_answer": "15.72",
-        "output_prediction": "The provided data is consolidated and does not contain airline-specific information. Therefore, it is impossible to determine the average yield per RPM for United Airlines in 2015.",
+        "output_prediction": "15.72",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How many passengers used United un year 2017? : tab-1": {
         "query": "How many passengers used United un year 2017?",
         "table_name": "tab-1",
         "expected_gold_answer": "148,067",
-        "output_prediction": "148067000",
+        "output_prediction": "148,067",
         "iterations": 2,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What was United's average stage length in 2014? : tab-1": {
         "query": "What was United's average stage length in 2014?",
@@ -192,9 +192,9 @@
         "query": "What is the operating revenue of United in 2018?",
         "table_name": "tab-7",
         "expected_gold_answer": "41,303",
-        "output_prediction": "The provided data does not contain information about the operating revenue of a company named \"United\" in 2018.",
+        "output_prediction": "41,303",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "For the year 2018, how much did United spend on repairs and maintenance? : tab-7": {
@@ -219,10 +219,10 @@
         "query": "Get me the income tax paid by United on 2017.",
         "table_name": "tab-7",
         "expected_gold_answer": "$2,163",
-        "output_prediction": "879",
+        "output_prediction": "$2,163",
         "iterations": 1,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What was the cost of restricted stock units awarded by United Airlines in 2017? : tab-9": {
         "query": "What was the cost of restricted stock units awarded by United Airlines in 2017?",
@@ -588,10 +588,10 @@
         "query": "what is the passenger load factor for delta airlines in 2017?",
         "table_name": "tab-17",
         "expected_gold_answer": "85.6%",
-        "output_prediction": "83.8%",
+        "output_prediction": "85.6%",
         "iterations": 1,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "how many gallons of fuel did Delta consume in 2016? : tab-17": {
         "query": "how many gallons of fuel did Delta consume in 2016?",
@@ -930,10 +930,10 @@
         "query": "How much income tax did United Airlines pay in 2017?",
         "table_name": "tab-28",
         "expected_gold_answer": "$2,143",
-        "output_prediction": "880",
+        "output_prediction": "$2,143",
         "iterations": 1,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What is the operating revenue on Cargo in the year 2019 for United? : tab-28": {
         "query": "What is the operating revenue on Cargo in the year 2019 for United?",
@@ -948,10 +948,10 @@
         "query": "what was the operating revenue of United Airlines for Cargo in 2018 ?",
         "table_name": "tab-28",
         "expected_gold_answer": "1,237",
-        "output_prediction": "1,179",
+        "output_prediction": "1,237",
         "iterations": 1,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What was the salaries and related costs expense by United in year 2018? : tab-28": {
         "query": "What was the salaries and related costs expense by United in year 2018?",
@@ -1083,10 +1083,10 @@
         "query": "How much was the traffic for Southwest Airlines for year 2014?",
         "table_name": "tab-32",
         "expected_gold_answer": "108,035,133",
-        "output_prediction": "110,496,912, 108,035,133, 179,733,055",
+        "output_prediction": "108,035,133",
         "iterations": 1,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What was the ASM of Southwest in year 2016? : tab-32": {
         "query": "What was the ASM of Southwest in year 2016?",
@@ -1236,28 +1236,28 @@
         "query": "What was the net income of SouthWest in the second quarter of 2018?",
         "table_name": "tab-36",
         "expected_gold_answer": "733",
-        "output_prediction": "743",
+        "output_prediction": "733",
         "iterations": 1,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "what is the net income of southwest in the June quarter of 2018? : tab-36": {
         "query": "what is the net income of southwest in the June quarter of 2018?",
         "table_name": "tab-36",
         "expected_gold_answer": "733",
-        "output_prediction": "743",
+        "output_prediction": "733",
         "iterations": 2,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "How much net income did Southwest Airlines report in Q2 2018 ? : tab-36": {
         "query": "How much net income did Southwest Airlines report in Q2 2018 ?",
         "table_name": "tab-36",
         "expected_gold_answer": "733",
-        "output_prediction": "743",
+        "output_prediction": "733",
         "iterations": 4,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "How many pilots does American Airlines have for the Envoy with contract amendable date as 2024 ? : tab-37": {
         "query": "How many pilots does American Airlines have for the Envoy with contract amendable date as 2024 ?",
@@ -1371,9 +1371,9 @@
         "query": " How many Boeing 737-8 MAX aircrafts American Airlines had in 2017 ?",
         "table_name": "tab-40",
         "expected_gold_answer": "4",
-        "output_prediction": "I cannot answer this question",
+        "output_prediction": "4",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the average seating capacity of American Airline's Boeing 787-9 aircraft  in 2017? : tab-40": {
@@ -1398,10 +1398,10 @@
         "query": "What was American Airlines' total number of leased Airbus A321 airplanes in 2017?",
         "table_name": "tab-40",
         "expected_gold_answer": "38",
-        "output_prediction": "54",
+        "output_prediction": "38",
         "iterations": 1,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "On average how old were the Airbus A321 fleet for American Airlines in 2017? : tab-40": {
         "query": "On average how old were the Airbus A321 fleet for American Airlines in 2017?",
@@ -1470,10 +1470,10 @@
         "query": "How many IAM employees did the Alaska Airlines have in 2018?",
         "table_name": "tab-45",
         "expected_gold_answer": "4,506",
-        "output_prediction": "688",
+        "output_prediction": "4,506",
         "iterations": 1,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "Which employee group does Air Line Pilots Association, International (ALPA) represent for Alaska airlines in 2018? : tab-45": {
         "query": "Which employee group does Air Line Pilots Association, International (ALPA) represent for Alaska airlines in 2018?",
@@ -1488,10 +1488,10 @@
         "query": "How many employees are under the AFA union for Alaska airlines in 2018?",
         "table_name": "tab-45",
         "expected_gold_answer": "5,815",
-        "output_prediction": "",
+        "output_prediction": "5,815",
         "iterations": 2,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "How old is the Executive Vice President/Finance and Chief Financial officer of Alaska Air Group in 2018? : tab-46": {
         "query": "How old is the Executive Vice President/Finance and Chief Financial officer of Alaska Air Group in 2018?",
@@ -1506,10 +1506,10 @@
         "query": "What was the age of Alaska Air Group's CEO and Chairman in 2018 ?",
         "table_name": "tab-46",
         "expected_gold_answer": "58",
-        "output_prediction": "82",
+        "output_prediction": "58",
         "iterations": 2,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "When did Benito Minicucci become the President and Chief Operating Officer of Alaska Airlines? : tab-46": {
         "query": "When did Benito Minicucci become the President and Chief Operating Officer of Alaska Airlines?",
@@ -1533,10 +1533,10 @@
         "query": "What is the total number of leased aircrafts for Alaska Airline in 2018?",
         "table_name": "tab-47",
         "expected_gold_answer": "112",
-        "output_prediction": "",
+        "output_prediction": "112",
         "iterations": 2,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What was the total count of owned aircrafts for Alaska Airlines in 2018 in regional fleet? : tab-47": {
         "query": "What was the total count of owned aircrafts for Alaska Airlines in 2018 in regional fleet?",
@@ -1623,9 +1623,9 @@
         "query": "How many Boeing 737-800 aircrafts American Airlines had in 2017?",
         "table_name": "tab-40",
         "expected_gold_answer": "304",
-        "output_prediction": "Approximately 304",
+        "output_prediction": "304",
         "iterations": 3,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the ASMs capacity of Alaska Airlines in 2018 ? : tab-51": {
@@ -3090,9 +3090,9 @@
         "query": "How much did Alaska's wage expenses grow in 2017 compared to the previous year?",
         "table_name": "tab-105",
         "expected_gold_answer": "17.8%",
-        "output_prediction": "The provided data does not contain company-specific wage information, therefore it is not possible to determine the growth in Alaska's wage expenses in 2017 compared to the previous year.",
+        "output_prediction": "17.8%",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How much money did Alaska airlines spend on medical benefits of its employees in 2017 ? : tab-105": {
@@ -3117,9 +3117,9 @@
         "query": "How much did Alaska Airlines grow its freight revenue in 2016?",
         "table_name": "tab-106",
         "expected_gold_answer": "\u2014%",
-        "output_prediction": "0",
+        "output_prediction": "\u2014%",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "By how much did Alaska's mainline passenger revenue increase from 2015 to 2016? : tab-106": {
@@ -3243,9 +3243,9 @@
         "query": "Which labour union represents Dispatchers of Southwest airlines?",
         "table_name": "tab-110",
         "expected_gold_answer": "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
-        "output_prediction": "Transportation Workers of America, AFL-CIO, Local 550 ('TWU 550')",
+        "output_prediction": "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "In 2017, how many employees of Southwest were flight attendants? : tab-110": {
@@ -3270,9 +3270,9 @@
         "query": "Which employees of Southwest airlines does IBT represent?",
         "table_name": "tab-110",
         "expected_gold_answer": "Southwest Flight Simulator Technicians",
-        "output_prediction": "Southwest Flight Simulator Technicians, Southwest Material Specialists (formerly known as Stock Clerks)",
+        "output_prediction": "Southwest Flight Simulator Technicians",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How many Southwest employees specialized in weather forecast in 2017? : tab-110": {
@@ -3396,9 +3396,9 @@
         "query": "Return Southwest's 2017 traffic.",
         "table_name": "tab-112",
         "expected_gold_answer": "129,041,420",
-        "output_prediction": "129,041,420, 153,811,072, 130,256,190, 157,677,218",
+        "output_prediction": "129,041,420",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How many planes did Southwest own in 2013? : tab-112": {
