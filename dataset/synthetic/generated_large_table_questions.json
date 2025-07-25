@@ -1,0 +1,5222 @@
+[
+  {
+    "id": "q-1000",
+    "table_id": "tab-0",
+    "question": "How many units of Product-7 were sold in South America on 2024-01-25?",
+    "answers": [
+      "2090"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1001",
+    "table_id": "tab-0",
+    "question": "What was the revenue from Product-7 in South America on 2024-01-25?",
+    "answers": [
+      "$502727.18"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1002",
+    "table_id": "tab-0",
+    "question": "What was the profit margin for Product-7 in South America on 2024-01-25?",
+    "answers": [
+      "40.43%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1003",
+    "table_id": "tab-0",
+    "question": "How many units of Product-10 were sold in Oceania on 2020-07-13?",
+    "answers": [
+      "3457"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1004",
+    "table_id": "tab-0",
+    "question": "What was the revenue from Product-10 in Oceania on 2020-07-13?",
+    "answers": [
+      "$415888.36"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1005",
+    "table_id": "tab-0",
+    "question": "What was the profit margin for Product-10 in Oceania on 2020-07-13?",
+    "answers": [
+      "23.19%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1006",
+    "table_id": "tab-0",
+    "question": "How many units of Product-4 were sold in Europe on 2020-02-26?",
+    "answers": [
+      "2053"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1007",
+    "table_id": "tab-0",
+    "question": "What was the revenue from Product-4 in Europe on 2020-02-26?",
+    "answers": [
+      "$995342.88"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1008",
+    "table_id": "tab-0",
+    "question": "What was the profit margin for Product-4 in Europe on 2020-02-26?",
+    "answers": [
+      "27.51%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-01-25",
+        "South America",
+        "Product-7",
+        2090,
+        "$502727.18",
+        "$299456.13",
+        "40.43%"
+      ],
+      [
+        "2020-07-13",
+        "Oceania",
+        "Product-10",
+        3457,
+        "$415888.36",
+        "$319449.56",
+        "23.19%"
+      ],
+      [
+        "2020-02-26",
+        "Europe",
+        "Product-4",
+        2053,
+        "$995342.88",
+        "$721521.79",
+        "27.51%"
+      ],
+      [
+        "2024-05-29",
+        "Europe",
+        "Product-6",
+        3106,
+        "$167722.15",
+        "$149980.17",
+        "10.58%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1009",
+    "table_id": "tab-1",
+    "question": "How many units of Product-2 were sold in Oceania on 2021-07-25?",
+    "answers": [
+      "2861"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1010",
+    "table_id": "tab-1",
+    "question": "What was the revenue from Product-2 in Oceania on 2021-07-25?",
+    "answers": [
+      "$1309483.29"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1011",
+    "table_id": "tab-1",
+    "question": "What was the profit margin for Product-2 in Oceania on 2021-07-25?",
+    "answers": [
+      "39.93%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1012",
+    "table_id": "tab-1",
+    "question": "How many units of Product-4 were sold in Europe on 2023-08-02?",
+    "answers": [
+      "2409"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1013",
+    "table_id": "tab-1",
+    "question": "What was the revenue from Product-4 in Europe on 2023-08-02?",
+    "answers": [
+      "$318945.7"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1014",
+    "table_id": "tab-1",
+    "question": "What was the profit margin for Product-4 in Europe on 2023-08-02?",
+    "answers": [
+      "42.72%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1015",
+    "table_id": "tab-1",
+    "question": "How many units of Product-7 were sold in Europe on 2024-01-01?",
+    "answers": [
+      "1080"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1016",
+    "table_id": "tab-1",
+    "question": "What was the revenue from Product-7 in Europe on 2024-01-01?",
+    "answers": [
+      "$428710.02"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1017",
+    "table_id": "tab-1",
+    "question": "What was the profit margin for Product-7 in Europe on 2024-01-01?",
+    "answers": [
+      "19.97%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-07-25",
+        "Oceania",
+        "Product-2",
+        2861,
+        "$1309483.29",
+        "$786597.14",
+        "39.93%"
+      ],
+      [
+        "2023-08-02",
+        "Europe",
+        "Product-4",
+        2409,
+        "$318945.7",
+        "$182684.52",
+        "42.72%"
+      ],
+      [
+        "2024-01-01",
+        "Europe",
+        "Product-7",
+        1080,
+        "$428710.02",
+        "$343076.78",
+        "19.97%"
+      ],
+      [
+        "2022-10-27",
+        "North America",
+        "Product-9",
+        4393,
+        "$434503.3",
+        "$343536.51",
+        "20.94%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1018",
+    "table_id": "tab-2",
+    "question": "How many units of Product-9 were sold in Asia on 2020-11-12?",
+    "answers": [
+      "1635"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1019",
+    "table_id": "tab-2",
+    "question": "What was the revenue from Product-9 in Asia on 2020-11-12?",
+    "answers": [
+      "$386817.24"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1020",
+    "table_id": "tab-2",
+    "question": "What was the profit margin for Product-9 in Asia on 2020-11-12?",
+    "answers": [
+      "23.32%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1021",
+    "table_id": "tab-2",
+    "question": "How many units of Product-7 were sold in Europe on 2024-11-10?",
+    "answers": [
+      "632"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1022",
+    "table_id": "tab-2",
+    "question": "What was the revenue from Product-7 in Europe on 2024-11-10?",
+    "answers": [
+      "$114618.01"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1023",
+    "table_id": "tab-2",
+    "question": "What was the profit margin for Product-7 in Europe on 2024-11-10?",
+    "answers": [
+      "42.05%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1024",
+    "table_id": "tab-2",
+    "question": "How many units of Product-10 were sold in Oceania on 2022-08-11?",
+    "answers": [
+      "2191"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1025",
+    "table_id": "tab-2",
+    "question": "What was the revenue from Product-10 in Oceania on 2022-08-11?",
+    "answers": [
+      "$210897.54"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1026",
+    "table_id": "tab-2",
+    "question": "What was the profit margin for Product-10 in Oceania on 2022-08-11?",
+    "answers": [
+      "47.78%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-11-12",
+        "Asia",
+        "Product-9",
+        1635,
+        "$386817.24",
+        "$296625.32",
+        "23.32%"
+      ],
+      [
+        "2024-11-10",
+        "Europe",
+        "Product-7",
+        632,
+        "$114618.01",
+        "$66423.68",
+        "42.05%"
+      ],
+      [
+        "2022-08-11",
+        "Oceania",
+        "Product-10",
+        2191,
+        "$210897.54",
+        "$110134.51",
+        "47.78%"
+      ],
+      [
+        "2021-08-31",
+        "South America",
+        "Product-10",
+        3478,
+        "$451398.36",
+        "$377773.37",
+        "16.31%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1027",
+    "table_id": "tab-3",
+    "question": "How many units of Product-4 were sold in North America on 2021-10-29?",
+    "answers": [
+      "2134"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1028",
+    "table_id": "tab-3",
+    "question": "What was the revenue from Product-4 in North America on 2021-10-29?",
+    "answers": [
+      "$26766.49"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1029",
+    "table_id": "tab-3",
+    "question": "What was the profit margin for Product-4 in North America on 2021-10-29?",
+    "answers": [
+      "10.93%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1030",
+    "table_id": "tab-3",
+    "question": "How many units of Product-10 were sold in Europe on 2022-04-12?",
+    "answers": [
+      "628"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1031",
+    "table_id": "tab-3",
+    "question": "What was the revenue from Product-10 in Europe on 2022-04-12?",
+    "answers": [
+      "$31363.21"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1032",
+    "table_id": "tab-3",
+    "question": "What was the profit margin for Product-10 in Europe on 2022-04-12?",
+    "answers": [
+      "29.15%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1033",
+    "table_id": "tab-3",
+    "question": "How many units of Product-9 were sold in Asia on 2020-09-14?",
+    "answers": [
+      "815"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1034",
+    "table_id": "tab-3",
+    "question": "What was the revenue from Product-9 in Asia on 2020-09-14?",
+    "answers": [
+      "$297535.19"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1035",
+    "table_id": "tab-3",
+    "question": "What was the profit margin for Product-9 in Asia on 2020-09-14?",
+    "answers": [
+      "43.49%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-10-29",
+        "North America",
+        "Product-4",
+        2134,
+        "$26766.49",
+        "$23842.21",
+        "10.93%"
+      ],
+      [
+        "2022-04-12",
+        "Europe",
+        "Product-10",
+        628,
+        "$31363.21",
+        "$22221.08",
+        "29.15%"
+      ],
+      [
+        "2020-09-14",
+        "Asia",
+        "Product-9",
+        815,
+        "$297535.19",
+        "$168125.67",
+        "43.49%"
+      ],
+      [
+        "2024-09-10",
+        "South America",
+        "Product-5",
+        307,
+        "$138997.66",
+        "$114382.91",
+        "17.71%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1036",
+    "table_id": "tab-4",
+    "question": "How many units of Product-5 were sold in Africa on 2022-03-29?",
+    "answers": [
+      "118"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1037",
+    "table_id": "tab-4",
+    "question": "What was the revenue from Product-5 in Africa on 2022-03-29?",
+    "answers": [
+      "$22573.52"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1038",
+    "table_id": "tab-4",
+    "question": "What was the profit margin for Product-5 in Africa on 2022-03-29?",
+    "answers": [
+      "30.37%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1039",
+    "table_id": "tab-4",
+    "question": "How many units of Product-3 were sold in Europe on 2020-02-12?",
+    "answers": [
+      "1043"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1040",
+    "table_id": "tab-4",
+    "question": "What was the revenue from Product-3 in Europe on 2020-02-12?",
+    "answers": [
+      "$162555.05"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1041",
+    "table_id": "tab-4",
+    "question": "What was the profit margin for Product-3 in Europe on 2020-02-12?",
+    "answers": [
+      "41.11%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1042",
+    "table_id": "tab-4",
+    "question": "How many units of Product-9 were sold in Africa on 2022-10-29?",
+    "answers": [
+      "2688"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1043",
+    "table_id": "tab-4",
+    "question": "What was the revenue from Product-9 in Africa on 2022-10-29?",
+    "answers": [
+      "$287692.79"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1044",
+    "table_id": "tab-4",
+    "question": "What was the profit margin for Product-9 in Africa on 2022-10-29?",
+    "answers": [
+      "38.34%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-03-29",
+        "Africa",
+        "Product-5",
+        118,
+        "$22573.52",
+        "$15717.33",
+        "30.37%"
+      ],
+      [
+        "2020-02-12",
+        "Europe",
+        "Product-3",
+        1043,
+        "$162555.05",
+        "$95734.89",
+        "41.11%"
+      ],
+      [
+        "2022-10-29",
+        "Africa",
+        "Product-9",
+        2688,
+        "$287692.79",
+        "$177377.65",
+        "38.34%"
+      ],
+      [
+        "2023-08-22",
+        "Oceania",
+        "Product-7",
+        414,
+        "$109282.71",
+        "$56123.78",
+        "48.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1045",
+    "table_id": "tab-5",
+    "question": "How many units of Product-1 were sold in Asia on 2022-06-03?",
+    "answers": [
+      "4173"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1046",
+    "table_id": "tab-5",
+    "question": "What was the revenue from Product-1 in Asia on 2022-06-03?",
+    "answers": [
+      "$2047969.76"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1047",
+    "table_id": "tab-5",
+    "question": "What was the profit margin for Product-1 in Asia on 2022-06-03?",
+    "answers": [
+      "14.78%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1048",
+    "table_id": "tab-5",
+    "question": "How many units of Product-6 were sold in Europe on 2022-01-08?",
+    "answers": [
+      "356"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1049",
+    "table_id": "tab-5",
+    "question": "What was the revenue from Product-6 in Europe on 2022-01-08?",
+    "answers": [
+      "$103361.39"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1050",
+    "table_id": "tab-5",
+    "question": "What was the profit margin for Product-6 in Europe on 2022-01-08?",
+    "answers": [
+      "38.03%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1051",
+    "table_id": "tab-5",
+    "question": "How many units of Product-6 were sold in North America on 2024-10-13?",
+    "answers": [
+      "3690"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1052",
+    "table_id": "tab-5",
+    "question": "What was the revenue from Product-6 in North America on 2024-10-13?",
+    "answers": [
+      "$1659181.28"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1053",
+    "table_id": "tab-5",
+    "question": "What was the profit margin for Product-6 in North America on 2024-10-13?",
+    "answers": [
+      "22.95%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2022-06-03",
+        "Asia",
+        "Product-1",
+        4173,
+        "$2047969.76",
+        "$1745207.54",
+        "14.78%"
+      ],
+      [
+        "2022-01-08",
+        "Europe",
+        "Product-6",
+        356,
+        "$103361.39",
+        "$64053.01",
+        "38.03%"
+      ],
+      [
+        "2024-10-13",
+        "North America",
+        "Product-6",
+        3690,
+        "$1659181.28",
+        "$1278337.92",
+        "22.95%"
+      ],
+      [
+        "2021-10-31",
+        "Asia",
+        "Product-6",
+        891,
+        "$380292.31",
+        "$210386.72",
+        "44.68%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1054",
+    "table_id": "tab-6",
+    "question": "How many units of Product-8 were sold in Asia on 2024-04-17?",
+    "answers": [
+      "4621"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1055",
+    "table_id": "tab-6",
+    "question": "What was the revenue from Product-8 in Asia on 2024-04-17?",
+    "answers": [
+      "$675464.33"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1056",
+    "table_id": "tab-6",
+    "question": "What was the profit margin for Product-8 in Asia on 2024-04-17?",
+    "answers": [
+      "20.61%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1057",
+    "table_id": "tab-6",
+    "question": "How many units of Product-10 were sold in North America on 2023-07-20?",
+    "answers": [
+      "201"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1058",
+    "table_id": "tab-6",
+    "question": "What was the revenue from Product-10 in North America on 2023-07-20?",
+    "answers": [
+      "$65151.59"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1059",
+    "table_id": "tab-6",
+    "question": "What was the profit margin for Product-10 in North America on 2023-07-20?",
+    "answers": [
+      "10.84%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1060",
+    "table_id": "tab-6",
+    "question": "How many units of Product-6 were sold in Europe on 2024-03-13?",
+    "answers": [
+      "2459"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1061",
+    "table_id": "tab-6",
+    "question": "What was the revenue from Product-6 in Europe on 2024-03-13?",
+    "answers": [
+      "$56010.04"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1062",
+    "table_id": "tab-6",
+    "question": "What was the profit margin for Product-6 in Europe on 2024-03-13?",
+    "answers": [
+      "12.25%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2024-04-17",
+        "Asia",
+        "Product-8",
+        4621,
+        "$675464.33",
+        "$536283.16",
+        "20.61%"
+      ],
+      [
+        "2023-07-20",
+        "North America",
+        "Product-10",
+        201,
+        "$65151.59",
+        "$58088.3",
+        "10.84%"
+      ],
+      [
+        "2024-03-13",
+        "Europe",
+        "Product-6",
+        2459,
+        "$56010.04",
+        "$49151.42",
+        "12.25%"
+      ],
+      [
+        "2024-02-28",
+        "Africa",
+        "Product-5",
+        4415,
+        "$121114.04",
+        "$96117.01",
+        "20.64%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1063",
+    "table_id": "tab-7",
+    "question": "How many units of Product-9 were sold in Africa on 2020-04-07?",
+    "answers": [
+      "3211"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1064",
+    "table_id": "tab-7",
+    "question": "What was the revenue from Product-9 in Africa on 2020-04-07?",
+    "answers": [
+      "$131576.12"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1065",
+    "table_id": "tab-7",
+    "question": "What was the profit margin for Product-9 in Africa on 2020-04-07?",
+    "answers": [
+      "25.83%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1066",
+    "table_id": "tab-7",
+    "question": "How many units of Product-6 were sold in North America on 2021-09-05?",
+    "answers": [
+      "1883"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1067",
+    "table_id": "tab-7",
+    "question": "What was the revenue from Product-6 in North America on 2021-09-05?",
+    "answers": [
+      "$742730.81"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1068",
+    "table_id": "tab-7",
+    "question": "What was the profit margin for Product-6 in North America on 2021-09-05?",
+    "answers": [
+      "20.16%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1069",
+    "table_id": "tab-7",
+    "question": "How many units of Product-2 were sold in Europe on 2024-08-08?",
+    "answers": [
+      "2713"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1070",
+    "table_id": "tab-7",
+    "question": "What was the revenue from Product-2 in Europe on 2024-08-08?",
+    "answers": [
+      "$262509.77"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1071",
+    "table_id": "tab-7",
+    "question": "What was the profit margin for Product-2 in Europe on 2024-08-08?",
+    "answers": [
+      "14.76%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2020-04-07",
+        "Africa",
+        "Product-9",
+        3211,
+        "$131576.12",
+        "$97590.77",
+        "25.83%"
+      ],
+      [
+        "2021-09-05",
+        "North America",
+        "Product-6",
+        1883,
+        "$742730.81",
+        "$593005.06",
+        "20.16%"
+      ],
+      [
+        "2024-08-08",
+        "Europe",
+        "Product-2",
+        2713,
+        "$262509.77",
+        "$223765.04",
+        "14.76%"
+      ],
+      [
+        "2023-05-23",
+        "Europe",
+        "Product-6",
+        4815,
+        "$1068584.35",
+        "$830527.7",
+        "22.28%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1072",
+    "table_id": "tab-8",
+    "question": "How many units of Product-6 were sold in Europe on 2021-06-25?",
+    "answers": [
+      "608"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1073",
+    "table_id": "tab-8",
+    "question": "What was the revenue from Product-6 in Europe on 2021-06-25?",
+    "answers": [
+      "$257250.43"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1074",
+    "table_id": "tab-8",
+    "question": "What was the profit margin for Product-6 in Europe on 2021-06-25?",
+    "answers": [
+      "32.09%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1075",
+    "table_id": "tab-8",
+    "question": "How many units of Product-1 were sold in South America on 2020-01-29?",
+    "answers": [
+      "3281"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1076",
+    "table_id": "tab-8",
+    "question": "What was the revenue from Product-1 in South America on 2020-01-29?",
+    "answers": [
+      "$183903.89"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1077",
+    "table_id": "tab-8",
+    "question": "What was the profit margin for Product-1 in South America on 2020-01-29?",
+    "answers": [
+      "15.76%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1078",
+    "table_id": "tab-8",
+    "question": "How many units of Product-10 were sold in Europe on 2021-12-17?",
+    "answers": [
+      "215"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1079",
+    "table_id": "tab-8",
+    "question": "What was the revenue from Product-10 in Europe on 2021-12-17?",
+    "answers": [
+      "$96292.81"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1080",
+    "table_id": "tab-8",
+    "question": "What was the profit margin for Product-10 in Europe on 2021-12-17?",
+    "answers": [
+      "47.85%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2021-06-25",
+        "Europe",
+        "Product-6",
+        608,
+        "$257250.43",
+        "$174705.28",
+        "32.09%"
+      ],
+      [
+        "2020-01-29",
+        "South America",
+        "Product-1",
+        3281,
+        "$183903.89",
+        "$154927.92",
+        "15.76%"
+      ],
+      [
+        "2021-12-17",
+        "Europe",
+        "Product-10",
+        215,
+        "$96292.81",
+        "$50215.31",
+        "47.85%"
+      ],
+      [
+        "2020-06-25",
+        "Oceania",
+        "Product-6",
+        984,
+        "$315445.89",
+        "$263028.36",
+        "16.62%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1081",
+    "table_id": "tab-9",
+    "question": "How many units of Product-3 were sold in Oceania on 2023-08-27?",
+    "answers": [
+      "2555"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1082",
+    "table_id": "tab-9",
+    "question": "What was the revenue from Product-3 in Oceania on 2023-08-27?",
+    "answers": [
+      "$822105.19"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1083",
+    "table_id": "tab-9",
+    "question": "What was the profit margin for Product-3 in Oceania on 2023-08-27?",
+    "answers": [
+      "22.79%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1084",
+    "table_id": "tab-9",
+    "question": "How many units of Product-4 were sold in Asia on 2020-03-06?",
+    "answers": [
+      "343"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1085",
+    "table_id": "tab-9",
+    "question": "What was the revenue from Product-4 in Asia on 2020-03-06?",
+    "answers": [
+      "$119587.51"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1086",
+    "table_id": "tab-9",
+    "question": "What was the profit margin for Product-4 in Asia on 2020-03-06?",
+    "answers": [
+      "33.91%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1087",
+    "table_id": "tab-9",
+    "question": "How many units of Product-3 were sold in Oceania on 2022-05-05?",
+    "answers": [
+      "4194"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1088",
+    "table_id": "tab-9",
+    "question": "What was the revenue from Product-3 in Oceania on 2022-05-05?",
+    "answers": [
+      "$670691.67"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  },
+  {
+    "id": "q-1089",
+    "table_id": "tab-9",
+    "question": "What was the profit margin for Product-3 in Oceania on 2022-05-05?",
+    "answers": [
+      "45.92%"
+    ],
+    "type": "Table-driven",
+    "row_hierarchy_needed": "No",
+    "paraphrase_group": "",
+    "table": [
+      [
+        "Date",
+        "Region",
+        "Product",
+        "Units Sold",
+        "Revenue (USD)",
+        "Cost (USD)",
+        "Profit Margin (%)"
+      ],
+      [
+        "2023-08-27",
+        "Oceania",
+        "Product-3",
+        2555,
+        "$822105.19",
+        "$634781.63",
+        "22.79%"
+      ],
+      [
+        "2020-03-06",
+        "Asia",
+        "Product-4",
+        343,
+        "$119587.51",
+        "$79031.87",
+        "33.91%"
+      ],
+      [
+        "2022-05-05",
+        "Oceania",
+        "Product-3",
+        4194,
+        "$670691.67",
+        "$362693.32",
+        "45.92%"
+      ],
+      [
+        "2020-09-05",
+        "Asia",
+        "Product-10",
+        1197,
+        "$268841.97",
+        "$136172.05",
+        "49.35%"
+      ]
+    ]
+  }
+]

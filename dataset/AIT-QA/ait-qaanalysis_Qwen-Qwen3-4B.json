@@ -1,0 +1,29 @@
+{
+    "How much money did United spend for aircraft fuel in 2016? : tab-0": {
+        "query": "How much money did United spend for aircraft fuel in 2016?",
+        "table_name": "tab-0",
+        "expected_gold_answer": "$5,813",
+        "output_prediction": "$9,307",
+        "iterations": 1,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "How many gallons of fuel was consumed by United airlines in 2018 ? : tab-0": {
+        "query": "How many gallons of fuel was consumed by United airlines in 2018 ?",
+        "table_name": "tab-0",
+        "expected_gold_answer": "4,137",
+        "output_prediction": "4137",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "How much average price per gallon fuel was paid by United in 2018 ? : tab-0": {
+        "query": "How much average price per gallon fuel was paid by United in 2018 ?",
+        "table_name": "tab-0",
+        "expected_gold_answer": "$2.25",
+        "output_prediction": "$3.12",
+        "iterations": 1,
+        "EM": 0,
+        "LLM_EVAL": 0
+    }
+}

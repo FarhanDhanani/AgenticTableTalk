@@ -1,0 +1,92 @@
+{
+    "How many units of Mercedes car were sold? : tab-0": {
+        "query": "How many units of Mercedes car were sold?",
+        "table_name": "tab-0",
+        "expected_gold_answer": "2090",
+        "output_prediction": "2090",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "What was the profit margin for Honda Bike? : tab-2": {
+        "query": "What was the profit margin for Honda Bike?",
+        "table_name": "tab-2",
+        "expected_gold_answer": "40.43%",
+        "output_prediction": "40.43%",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "How many units of Macbook Pro were sold? : tab-3": {
+        "query": "How many units of Macbook Pro were sold?",
+        "table_name": "tab-3",
+        "expected_gold_answer": "2090",
+        "output_prediction": "2090",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "What was the revenue from Samsung A04? : tab-4": {
+        "query": "What was the revenue from Samsung A04?",
+        "table_name": "tab-4",
+        "expected_gold_answer": "$502727.18",
+        "output_prediction": "$502727.18",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "What was the profit margin for Dawlance AC? : tab-5": {
+        "query": "What was the profit margin for Dawlance AC?",
+        "table_name": "tab-5",
+        "expected_gold_answer": "40.43%",
+        "output_prediction": "40.43%",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "How many units of Yellow Shirts were sold? : tab-6": {
+        "query": "How many units of Yellow Shirts were sold?",
+        "table_name": "tab-6",
+        "expected_gold_answer": "2090",
+        "output_prediction": "2090",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "What was the revenue from Toshiba Lamp? : tab-7": {
+        "query": "What was the revenue from Toshiba Lamp?",
+        "table_name": "tab-7",
+        "expected_gold_answer": "$502727.18",
+        "output_prediction": "$502727.18",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "What was the profit margin for Harry Potter Books? : tab-8": {
+        "query": "What was the profit margin for Harry Potter Books?",
+        "table_name": "tab-8",
+        "expected_gold_answer": "40.43%",
+        "output_prediction": "40.43%",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "How many units of Philips bulb were sold? : tab-9": {
+        "query": "How many units of Philips bulb were sold?",
+        "table_name": "tab-9",
+        "expected_gold_answer": "2861",
+        "output_prediction": "2861",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "What was the revenue from Suzuki Alto Car? : tab-1": {
+        "query": "What was the revenue from Suzuki Alto Car?",
+        "table_name": "tab-1",
+        "expected_gold_answer": "$502727.18",
+        "output_prediction": "$502727.18",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    }
+}

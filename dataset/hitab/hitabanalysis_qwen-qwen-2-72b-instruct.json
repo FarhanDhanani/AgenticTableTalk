@@ -1,0 +1,2693 @@
+{
+    "in eastern ontario, what percent of french-language workers have worked in the restaurant and food services sector? : 100": {
+        "query": "in eastern ontario, what percent of french-language workers have worked in the restaurant and food services sector?",
+        "table_name": "100",
+        "expected_gold_answer": "52.1",
+        "output_prediction": "52.1",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in eastern ontario, what percent of other agri-food workers have worked in the restaurant and food services sector? : 100": {
+        "query": "in eastern ontario, what percent of other agri-food workers have worked in the restaurant and food services sector?",
+        "table_name": "100",
+        "expected_gold_answer": "60.6",
+        "output_prediction": "60.6",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in northern ontario, what proportion of workers who have worked in the restaurant and food services sector was french-language workers? : 100": {
+        "query": "in northern ontario, what proportion of workers who have worked in the restaurant and food services sector was french-language workers?",
+        "table_name": "100",
+        "expected_gold_answer": "55.0",
+        "output_prediction": "55.0",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in northern ontario, what proportion of workers who have worked in the restaurant and food services sector was other agri-food workers? : 100": {
+        "query": "in northern ontario, what proportion of workers who have worked in the restaurant and food services sector was other agri-food workers?",
+        "table_name": "100",
+        "expected_gold_answer": "58.1",
+        "output_prediction": "58.1",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "among the black canadian-born population aged 25 to 59, which group of people had a higher educational attainment for all countries of ancestry considered, and for both postsecondary diplomas as a whole and university diplomas only? women or men? : 1004": {
+        "query": "among the black canadian-born population aged 25 to 59, which group of people had a higher educational attainment for all countries of ancestry considered, and for both postsecondary diplomas as a whole and university diplomas only? women or men?",
+        "table_name": "1004",
+        "expected_gold_answer": "women",
+        "output_prediction": "women",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "how many percent of university graduates among second-generation black women who originated from jamaica was higher than that of men in 2016? : 1004": {
+        "query": "how many percent of university graduates among second-generation black women who originated from jamaica was higher than that of men in 2016?",
+        "table_name": "1004",
+        "expected_gold_answer": "15.5",
+        "output_prediction": "31.3",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the difference between black women with university degree only who originated from haitian and that of men? : 1004": {
+        "query": "what is the difference between black women with university degree only who originated from haitian and that of men?",
+        "table_name": "1004",
+        "expected_gold_answer": "18.8",
+        "output_prediction": "18.8",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in 2016, which region of ancestry had a higher percentage of second-generation black women with a university degree? second-generation women with other regions of ancestry or women of african ancestry? : 1004": {
+        "query": "in 2016, which region of ancestry had a higher percentage of second-generation black women with a university degree? second-generation women with other regions of ancestry or women of african ancestry?",
+        "table_name": "1004",
+        "expected_gold_answer": "africa",
+        "output_prediction": "Nigeria",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "how many percent of second-generation women with african ancestry had a university degree in 2016? : 1004": {
+        "query": "how many percent of second-generation women with african ancestry had a university degree in 2016?",
+        "table_name": "1004",
+        "expected_gold_answer": "50.8",
+        "output_prediction": "35.3",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percent of second-generation women with caribbean and latin american ancestry had a university degree in 2016? : 1004": {
+        "query": "how many percent of second-generation women with caribbean and latin american ancestry had a university degree in 2016?",
+        "table_name": "1004",
+        "expected_gold_answer": "34.8",
+        "output_prediction": "18.4",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percent of second-generation women with other regions of ancestry had a university degree in 2016? : 1004": {
+        "query": "how many percent of second-generation women with other regions of ancestry had a university degree in 2016?",
+        "table_name": "1004",
+        "expected_gold_answer": "19.1",
+        "output_prediction": "19.1",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "among men, what is the percentage for those whose country of ancestry is in africa? : 1004": {
+        "query": "among men, what is the percentage for those whose country of ancestry is in africa?",
+        "table_name": "1004",
+        "expected_gold_answer": "35.3",
+        "output_prediction": "63.6",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "among men, what is the percentage for those whose country of ancestry is in the caribbean and latin america? : 1004": {
+        "query": "among men, what is the percentage for those whose country of ancestry is in the caribbean and latin america?",
+        "table_name": "1004",
+        "expected_gold_answer": "18.4",
+        "output_prediction": "59.5",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which type of workers in manitoba's agricultural region 7 were more likely to have no certificate, diploma or degree, french-language workers or other workers? : 102": {
+        "query": "which type of workers in manitoba's agricultural region 7 were more likely to have no certificate, diploma or degree, french-language workers or other workers?",
+        "table_name": "102",
+        "expected_gold_answer": "french-language workers",
+        "output_prediction": "French-language workers",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which type of workers in manitoba's agricultural region 7 were less likely to have a college certificate or diploma, french-language workers or other workers? : 102": {
+        "query": "which type of workers in manitoba's agricultural region 7 were less likely to have a college certificate or diploma, french-language workers or other workers?",
+        "table_name": "102",
+        "expected_gold_answer": "french-language workers",
+        "output_prediction": "French-language workers",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which type of workers in alberta's agricultural region 7 were less likely to have no certificate, diploma or degree, french-language workers or other workers? : 102": {
+        "query": "which type of workers in alberta's agricultural region 7 were less likely to have no certificate, diploma or degree, french-language workers or other workers?",
+        "table_name": "102",
+        "expected_gold_answer": "french-language workers",
+        "output_prediction": "French-language workers",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which type of workers in alberta's agricultural region 7 were more likely to have a high school diploma, french-language workers or other workers? : 102": {
+        "query": "which type of workers in alberta's agricultural region 7 were more likely to have a high school diploma, french-language workers or other workers?",
+        "table_name": "102",
+        "expected_gold_answer": "french-language workers",
+        "output_prediction": "50.6, 39.5",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "which sedentary time has the largest beta coefficients? : 1021": {
+        "query": "which sedentary time has the largest beta coefficients?",
+        "table_name": "1021",
+        "expected_gold_answer": "weekend",
+        "output_prediction": "0.124",
+        "iterations": 4,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "which lpa has the largest beta coefficients? : 1021": {
+        "query": "which lpa has the largest beta coefficients?",
+        "table_name": "1021",
+        "expected_gold_answer": "weekend",
+        "output_prediction": "0.096",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "how many million dollars did total bussiness r&d perform in domestic business r&d in 2016? : 102_53_nsf19315-tab001": {
+        "query": "how many million dollars did total bussiness r&d perform in domestic business r&d in 2016?",
+        "table_name": "102_53_nsf19315-tab001",
+        "expected_gold_answer": "374685.0",
+        "output_prediction": "374685",
+        "iterations": 7,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "over the past 10 years, how many percentage points did software r&d increase annually compound at average growth rate? : 102_53_nsf19315-tab001": {
+        "query": "over the past 10 years, how many percentage points did software r&d increase annually compound at average growth rate?",
+        "table_name": "102_53_nsf19315-tab001",
+        "expected_gold_answer": "9.6",
+        "output_prediction": "The software R&D values for the years 2006 and 2016 are missing, which are essential for calculating the average annual growth rate for software R&D over the past 10 years. Without these values, it is not possible to provide a precise answer to the question.",
+        "iterations": 5,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "over the past 10 years, how many percentage points did total business r&d increase annually at compound average growth rate? : 102_53_nsf19315-tab001": {
+        "query": "over the past 10 years, how many percentage points did total business r&d increase annually at compound average growth rate?",
+        "table_name": "102_53_nsf19315-tab001",
+        "expected_gold_answer": "4.2",
+        "output_prediction": "4.2",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many league goals did hristo yanev score for cska sofia? : 103_totto12249-2": {
+        "query": "how many league goals did hristo yanev score for cska sofia?",
+        "table_name": "103_totto12249-2",
+        "expected_gold_answer": "54.0",
+        "output_prediction": "0",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in manitoba's agricultural region 9, what was the percentage of agricultural workers were employees? : 104": {
+        "query": "in manitoba's agricultural region 9, what was the percentage of agricultural workers were employees?",
+        "table_name": "104",
+        "expected_gold_answer": "74.6",
+        "output_prediction": "74.6",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the proportion of employees in other agricultural regions in western canada? : 104": {
+        "query": "what was the proportion of employees in other agricultural regions in western canada?",
+        "table_name": "104",
+        "expected_gold_answer": "32.3",
+        "output_prediction": "46.9%, 77.0%, 32.3%, 27.2%",
+        "iterations": 4,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "which type of workers were less likely to be self-employed workers in an unincorporated business in all of western canada's agricultural regions, french-language workers or their counterparts from other language groups? : 104": {
+        "query": "which type of workers were less likely to be self-employed workers in an unincorporated business in all of western canada's agricultural regions, french-language workers or their counterparts from other language groups?",
+        "table_name": "104",
+        "expected_gold_answer": "french-language workers",
+        "output_prediction": "French-language workers",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which type of workers were more likely to be self-employed workers in an incorporated business in all of western canada's agricultural regions, french-language workers or their counterparts from other language groups? : 104": {
+        "query": "which type of workers were more likely to be self-employed workers in an incorporated business in all of western canada's agricultural regions, french-language workers or their counterparts from other language groups?",
+        "table_name": "104",
+        "expected_gold_answer": "french-language workers",
+        "output_prediction": "French-language workers",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "how many percent of businesses of the primarily self-employed economic class pas were lessors of real estate? : 1048": {
+        "query": "how many percent of businesses of the primarily self-employed economic class pas were lessors of real estate?",
+        "table_name": "1048",
+        "expected_gold_answer": "16.8",
+        "output_prediction": "37.9",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percent of businesses of the primarily self-employed economic class pas were in services to buildings and dwellings? : 1048": {
+        "query": "how many percent of businesses of the primarily self-employed economic class pas were in services to buildings and dwellings?",
+        "table_name": "1048",
+        "expected_gold_answer": "10.5",
+        "output_prediction": "Information not available in the table",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "how many percent of businesses of the primarily self-employed economic class pas were in retail trade? : 1048": {
+        "query": "how many percent of businesses of the primarily self-employed economic class pas were in retail trade?",
+        "table_name": "1048",
+        "expected_gold_answer": "6.6",
+        "output_prediction": "7.6",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what are the top three prominent industries among family class immigrants in primary self-employment? : 1048": {
+        "query": "what are the top three prominent industries among family class immigrants in primary self-employment?",
+        "table_name": "1048",
+        "expected_gold_answer": "lessors of real estate|services to buildings and dwellings|child day-care services",
+        "output_prediction": "food services and drinking places, services to buildings and dwellings, management, scientific and technical consulting services",
+        "iterations": 6,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what are the top three industries among self-employed refugees? : 1048": {
+        "query": "what are the top three industries among self-employed refugees?",
+        "table_name": "1048",
+        "expected_gold_answer": "lessors of real estate|services to buildings and dwellings|specialty trade contractors",
+        "output_prediction": "services to buildings and dwellings, knowledge-based industries, architectural, engineering and related services",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "which club did lodge play for in 1985-86? : 104_totto12294-0": {
+        "query": "which club did lodge play for in 1985-86?",
+        "table_name": "104_totto12294-0",
+        "expected_gold_answer": "stockport county",
+        "output_prediction": "southport",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "how many passing yards did ryan tannehill get in 2018? : 104_totto12360-3": {
+        "query": "how many passing yards did ryan tannehill get in 2018?",
+        "table_name": "104_totto12360-3",
+        "expected_gold_answer": "1979.0",
+        "output_prediction": "1,979",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many percent of heterosexual canadians reported that they had engaged in binge drinking on at least one occasion in the past 12 months? : 1057": {
+        "query": "how many percent of heterosexual canadians reported that they had engaged in binge drinking on at least one occasion in the past 12 months?",
+        "table_name": "1057",
+        "expected_gold_answer": "44.1",
+        "output_prediction": "44.1",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many times of gay or lesbian canadians were more likely as heterosexual canadians to report having used other non-prescribed drugs such as magic mushrooms, cocaine or heroin in the past year? : 1057": {
+        "query": "how many times of gay or lesbian canadians were more likely as heterosexual canadians to report having used other non-prescribed drugs such as magic mushrooms, cocaine or heroin in the past year?",
+        "table_name": "1057",
+        "expected_gold_answer": "2.538462",
+        "output_prediction": "3.923076923076923",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percent of bisexual canadians have reported that they have used non-prescribed drugs in the past 12 months? : 1057": {
+        "query": "how many percent of bisexual canadians have reported that they have used non-prescribed drugs in the past 12 months?",
+        "table_name": "1057",
+        "expected_gold_answer": "14.0",
+        "output_prediction": "14.0",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many percent of heterosexual canadians who had experienced abuse or violence in their lifetimes, have reported that they had used alcohol or drugs as a coping mechanism for these experiences? : 1057": {
+        "query": "how many percent of heterosexual canadians who had experienced abuse or violence in their lifetimes, have reported that they had used alcohol or drugs as a coping mechanism for these experiences?",
+        "table_name": "1057",
+        "expected_gold_answer": "10.4",
+        "output_prediction": "9.9",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percent of bisexual canadians who had experienced abuse or violence in their lifetimes, have reported that they had used drugs or alcohol to cope with their lifetime experiences of abuse or violence? : 1057": {
+        "query": "how many percent of bisexual canadians who had experienced abuse or violence in their lifetimes, have reported that they had used drugs or alcohol to cope with their lifetime experiences of abuse or violence?",
+        "table_name": "1057",
+        "expected_gold_answer": "29.5",
+        "output_prediction": "23.8",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "according to brdis, what was the total number of employees at r&d-performing companies in 2015? : 105_54_nsf19316-tab003": {
+        "query": "according to brdis, what was the total number of employees at r&d-performing companies in 2015?",
+        "table_name": "105_54_nsf19316-tab003",
+        "expected_gold_answer": "18913.0",
+        "output_prediction": "18913",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in fy 2017, how many million dollars did federal agencies obligate to institutions of higher education in support of science and engineering (s&e)? : 106_55_fs17-ib-19314-tab001": {
+        "query": "in fy 2017, how many million dollars did federal agencies obligate to institutions of higher education in support of science and engineering (s&e)?",
+        "table_name": "106_55_fs17-ib-19314-tab001",
+        "expected_gold_answer": "32431.0",
+        "output_prediction": "3570",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in fy 2016, how many million dollars did federal agencies obligate to institutions of higher education in support of science and engineering (s&e)? : 106_55_fs17-ib-19314-tab001": {
+        "query": "in fy 2016, how many million dollars did federal agencies obligate to institutions of higher education in support of science and engineering (s&e)?",
+        "table_name": "106_55_fs17-ib-19314-tab001",
+        "expected_gold_answer": "31647.0",
+        "output_prediction": "2745",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many million dollars did funding for research and development to universities and colleges increase in 2017? : 106_55_fs17-ib-19314-tab001": {
+        "query": "how many million dollars did funding for research and development to universities and colleges increase in 2017?",
+        "table_name": "106_55_fs17-ib-19314-tab001",
+        "expected_gold_answer": "29796.0",
+        "output_prediction": "1265",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percent of the total number of enterprises in canada has increased from 1,028,397 in 2008 to 1,089,136 in 2014? : 1077": {
+        "query": "how many percent of the total number of enterprises in canada has increased from 1,028,397 in 2008 to 1,089,136 in 2014?",
+        "table_name": "1077",
+        "expected_gold_answer": "5.9",
+        "output_prediction": "5.9",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "which enterprise size class has the highest share of enterprises in 2008 and in 2014? : 1077": {
+        "query": "which enterprise size class has the highest share of enterprises in 2008 and in 2014?",
+        "table_name": "1077",
+        "expected_gold_answer": "between 1 and 4",
+        "output_prediction": "between 1 and 4",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which enterprise size class is the only decreasing size class? : 1077": {
+        "query": "which enterprise size class is the only decreasing size class?",
+        "table_name": "1077",
+        "expected_gold_answer": "1,000 and above",
+        "output_prediction": "1,000 and above",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "how many receiving yards did rex burkhead get in 2016? : 110_totto12892-0": {
+        "query": "how many receiving yards did rex burkhead get in 2016?",
+        "table_name": "110_totto12892-0",
+        "expected_gold_answer": "145.0",
+        "output_prediction": "145",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many receving yards did braylon get in 2009? : 110_totto12953-3": {
+        "query": "how many receving yards did braylon get in 2009?",
+        "table_name": "110_totto12953-3",
+        "expected_gold_answer": "541.0",
+        "output_prediction": "904",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which age group of women has the highest surgical rates? : 1113": {
+        "query": "which age group of women has the highest surgical rates?",
+        "table_name": "1113",
+        "expected_gold_answer": "50 to 69 years",
+        "output_prediction": "50 to 69 years",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of colorectal cancer tumours received a surgical intervention? : 1114": {
+        "query": "what is the percentage of colorectal cancer tumours received a surgical intervention?",
+        "table_name": "1114",
+        "expected_gold_answer": "83.0",
+        "output_prediction": "83.0",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "natural land for pasture is largely found in western canada, what was the percentage of alberta reporting the most amount of natural pasture area in 2011? : 112": {
+        "query": "natural land for pasture is largely found in western canada, what was the percentage of alberta reporting the most amount of natural pasture area in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "6435825.0",
+        "output_prediction": "31.5",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "natural land for pasture is largely found in western canada, what was the percentage of manitoba reporting the amount of natural pasture area in 2011? : 112": {
+        "query": "natural land for pasture is largely found in western canada, what was the percentage of manitoba reporting the amount of natural pasture area in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "1466968.0",
+        "output_prediction": "20.1",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "natural land for pasture is largely found in western canada, what was the percentage of british columbia reporting the amount of natural pasture area in 2011? : 112": {
+        "query": "natural land for pasture is largely found in western canada, what was the percentage of british columbia reporting the amount of natural pasture area in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "1385359.0",
+        "output_prediction": "53.1",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "natural land for pasture is largely found in western canada, what was the percentage of saskatchewan reporting the amount of natural pasture area in 2011? : 112": {
+        "query": "natural land for pasture is largely found in western canada, what was the percentage of saskatchewan reporting the amount of natural pasture area in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "4816782.0",
+        "output_prediction": "19.3",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the proportion of total agricultural land in british columbia reported the largest area of natural land for pasture? : 112": {
+        "query": "what was the proportion of total agricultural land in british columbia reported the largest area of natural land for pasture?",
+        "table_name": "112",
+        "expected_gold_answer": "53.1",
+        "output_prediction": "53.05",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of agricultural land in the atlantic provinces reported as woodlands and wetlands in 2011? : 112": {
+        "query": "what was the percentage of agricultural land in the atlantic provinces reported as woodlands and wetlands in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "42.3",
+        "output_prediction": "42.3",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentgae of agricultural land in the quebec provinces reported as woodlands and wetlands in 2011? : 112": {
+        "query": "what was the percentgae of agricultural land in the quebec provinces reported as woodlands and wetlands in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "31.6",
+        "output_prediction": "7.6",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of agricultural land in the ontario provinces reported as woodlands and wetlands in 2011? : 112": {
+        "query": "what was the percentage of agricultural land in the ontario provinces reported as woodlands and wetlands in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "12.6",
+        "output_prediction": "12.6",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many hectares did quebec report the area of woodland and wetland in 2011? : 112": {
+        "query": "how many hectares did quebec report the area of woodland and wetland in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "1057417.0",
+        "output_prediction": "1,057,417",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many hectares did saskatchewan report the area of woodland and wetland in 2011? : 112": {
+        "query": "how many hectares did saskatchewan report the area of woodland and wetland in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "1009381.0",
+        "output_prediction": "1,009,381",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many hectares did alberta report the area of woodland and wetland in 2011? : 112": {
+        "query": "how many hectares did alberta report the area of woodland and wetland in 2011?",
+        "table_name": "112",
+        "expected_gold_answer": "893436.0",
+        "output_prediction": "893,436",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentge of new mothers were in the first situation(with pre-birth-year, birth-year, or post-birth-year roe; and received ei in the birth year)in 2012? : 1140": {
+        "query": "what is the percentge of new mothers were in the first situation(with pre-birth-year, birth-year, or post-birth-year roe; and received ei in the birth year)in 2012?",
+        "table_name": "1140",
+        "expected_gold_answer": "40.6",
+        "output_prediction": "2.6",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentge of new mothers were in the second situation(with pre-birth-year, birth-year, or post-birth-year roe; and received ei after the birth year)in 2012? : 1140": {
+        "query": "what is the percentge of new mothers were in the second situation(with pre-birth-year, birth-year, or post-birth-year roe; and received ei after the birth year)in 2012?",
+        "table_name": "1140",
+        "expected_gold_answer": "2.8",
+        "output_prediction": "0.8",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of new mothers took parental leave, according to the roe-based definition in 2012? : 1140": {
+        "query": "what is the percentage of new mothers took parental leave, according to the roe-based definition in 2012?",
+        "table_name": "1140",
+        "expected_gold_answer": "43.4",
+        "output_prediction": "3.4",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of new mothers who received ei benefits in 2012 were issued an roe for temporary leave other than parental leave? : 1140": {
+        "query": "what is the percentage of new mothers who received ei benefits in 2012 were issued an roe for temporary leave other than parental leave?",
+        "table_name": "1140",
+        "expected_gold_answer": "6.5",
+        "output_prediction": "18.4",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of new mothers who received ei benefits in 2012 quit the jobs they held before the leave? : 1140": {
+        "query": "what is the percentage of new mothers who received ei benefits in 2012 quit the jobs they held before the leave?",
+        "table_name": "1140",
+        "expected_gold_answer": "0.9",
+        "output_prediction": "0.9",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of new mothers who received ei benefits in 2012 were issued an roe for reasons other than parental leave and did not go back to the same employer? : 1140": {
+        "query": "what is the percentage of new mothers who received ei benefits in 2012 were issued an roe for reasons other than parental leave and did not go back to the same employer?",
+        "table_name": "1140",
+        "expected_gold_answer": "2.4",
+        "output_prediction": "2.3",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of new mothers who received ei benefits in 2012 were not issued an roe at all? : 1140": {
+        "query": "what is the percentage of new mothers who received ei benefits in 2012 were not issued an roe at all?",
+        "table_name": "1140",
+        "expected_gold_answer": "10.5",
+        "output_prediction": "10.5",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "which club did aladji mansour ba play for in 2017-18? : 114_totto13273-0": {
+        "query": "which club did aladji mansour ba play for in 2017-18?",
+        "table_name": "114_totto13273-0",
+        "expected_gold_answer": "kapaz",
+        "output_prediction": "kapaz",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of all farms reported woodlands and wetlands in 2011? : 115": {
+        "query": "what was the percentage of all farms reported woodlands and wetlands in 2011?",
+        "table_name": "115",
+        "expected_gold_answer": "49.9",
+        "output_prediction": "49.9",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the proportion of people who reported having seen their friends a few times or more a week in 2003? : 1153": {
+        "query": "what is the proportion of people who reported having seen their friends a few times or more a week in 2003?",
+        "table_name": "1153",
+        "expected_gold_answer": "56.0",
+        "output_prediction": "56",
+        "iterations": 5,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the proportion of people who reported having seen their friends a few times or more a week in 2013? : 1153": {
+        "query": "what is the proportion of people who reported having seen their friends a few times or more a week in 2013?",
+        "table_name": "1153",
+        "expected_gold_answer": "44.0",
+        "output_prediction": "44",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how much did the proportion of people who reported having seen their friends a few times or more a week fall from 2003 to 2013? : 1153": {
+        "query": "how much did the proportion of people who reported having seen their friends a few times or more a week fall from 2003 to 2013?",
+        "table_name": "1153",
+        "expected_gold_answer": "12",
+        "output_prediction": "12",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many million dollars did for-profit businesses perform in software r&d in 2016? : 102_53_nsf19315-tab001": {
+        "query": "how many million dollars did for-profit businesses perform in software r&d in 2016?",
+        "table_name": "102_53_nsf19315-tab001",
+        "expected_gold_answer": "120824.0",
+        "output_prediction": "The value is missing",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "which group of people is least likely to have engaged in health risk behaviours such as binge drinking and drug use in the 12 months preceding the sspps? : 1057": {
+        "query": "which group of people is least likely to have engaged in health risk behaviours such as binge drinking and drug use in the 12 months preceding the sspps?",
+        "table_name": "1057",
+        "expected_gold_answer": "heterosexual",
+        "output_prediction": "heterosexual",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which enterprise size class has the highest relative increase in enterprise number? : 1077": {
+        "query": "which enterprise size class has the highest relative increase in enterprise number?",
+        "table_name": "1077",
+        "expected_gold_answer": "between 50 and 99",
+        "output_prediction": "9.4",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of female breast cancer tumours received a surgical intervention? : 1112": {
+        "query": "what is the percentage of female breast cancer tumours received a surgical intervention?",
+        "table_name": "1112",
+        "expected_gold_answer": "88.2",
+        "output_prediction": "91.55",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which age group has the lowest surgical rate? : 1123": {
+        "query": "which age group has the lowest surgical rate?",
+        "table_name": "1123",
+        "expected_gold_answer": "70 years and older",
+        "output_prediction": "70 years and older",
+        "iterations": 4,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what were the anchorman series respectively? : 115_totto13338-2": {
+        "query": "what were the anchorman series respectively?",
+        "table_name": "115_totto13338-2",
+        "expected_gold_answer": "anchorman: the legend of ron burgundy|wake up, ron burgundy: the lost movie|anchorman 2: the legend continues",
+        "output_prediction": "Anchorman: The Legend of Ron Burgundy, Wake Up, Ron Burgundy: The Lost Movie, Anchorman 2: The Legend Continues",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of admissions to correctional services in the nine reporting jurisdictions made up by aboriginal youth in 2017/2018? : 1180": {
+        "query": "what was the percentage of admissions to correctional services in the nine reporting jurisdictions made up by aboriginal youth in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "43.0",
+        "output_prediction": "14.4",
+        "iterations": 5,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of custody admissions made up by aboriginal youth in 2017/2018? : 1180": {
+        "query": "what was the percentage of custody admissions made up by aboriginal youth in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "48.0",
+        "output_prediction": "47.44",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of community admissions made up by aboriginal youth in 2017/2018? : 1180": {
+        "query": "what was the percentage of community admissions made up by aboriginal youth in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "39.0",
+        "output_prediction": "39.26",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of youth admitted into correctional services were male in 2017/2018? : 1180": {
+        "query": "what is the percentage of youth admitted into correctional services were male in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "76.0",
+        "output_prediction": "76.4",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of youth admitted into custody were male in 2017/2018? : 1180": {
+        "query": "what is the percentage of youth admitted into custody were male in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "76.0",
+        "output_prediction": "76.4",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of youth admitted into community supervision were male in 2017/2018? : 1180": {
+        "query": "what is the percentage of youth admitted into community supervision were male in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "76.0",
+        "output_prediction": "76.46",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of youth admissions to correctional services in 2017/2018 involved youth aged 16 to 17 years at the time of admission? : 1180": {
+        "query": "what was the percentage of youth admissions to correctional services in 2017/2018 involved youth aged 16 to 17 years at the time of admission?",
+        "table_name": "1180",
+        "expected_gold_answer": "54",
+        "output_prediction": "29.24",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of youth admitted to custody aged 16 and 17 years old in 2017/2018? : 1180": {
+        "query": "what was the percentage of youth admitted to custody aged 16 and 17 years old in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "60",
+        "output_prediction": "59.97",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of youth admitted to community supervision aged 16 and 17 years old in 2017/2018? : 1180": {
+        "query": "what was the percentage of youth admitted to community supervision aged 16 and 17 years old in 2017/2018?",
+        "table_name": "1180",
+        "expected_gold_answer": "49",
+        "output_prediction": "48.31",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the mean absolute revision to the annual growth in nominal gdp between 1981 and 2014? : 1184": {
+        "query": "what was the mean absolute revision to the annual growth in nominal gdp between 1981 and 2014?",
+        "table_name": "1184",
+        "expected_gold_answer": "0.13",
+        "output_prediction": "0.13",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the the mean absolute revision to annual nominal gdp for the period 2010 to 2014? : 1184": {
+        "query": "what was the the mean absolute revision to annual nominal gdp for the period 2010 to 2014?",
+        "table_name": "1184",
+        "expected_gold_answer": "0.2",
+        "output_prediction": "0.20",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the mean absolute revision to the annual growth in real gdp between 1981 and 2014? : 1184": {
+        "query": "what was the mean absolute revision to the annual growth in real gdp between 1981 and 2014?",
+        "table_name": "1184",
+        "expected_gold_answer": "0.11",
+        "output_prediction": "0.14, 0.08, 0.10",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the change in pension entitlements in household sector? : 1188": {
+        "query": "what was the change in pension entitlements in household sector?",
+        "table_name": "1188",
+        "expected_gold_answer": "55.0",
+        "output_prediction": "55",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the average absolute mean revision to real gross domestic product in nunavut? : 1191": {
+        "query": "what was the average absolute mean revision to real gross domestic product in nunavut?",
+        "table_name": "1191",
+        "expected_gold_answer": "1.47",
+        "output_prediction": "1.47",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the average absolute mean revision to real gross domestic product in ontario? : 1191": {
+        "query": "what was the average absolute mean revision to real gross domestic product in ontario?",
+        "table_name": "1191",
+        "expected_gold_answer": "0.15",
+        "output_prediction": "0.15",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the annual real growth over the 1981 to 2013 period was in alberta? : 1191": {
+        "query": "what was the annual real growth over the 1981 to 2013 period was in alberta?",
+        "table_name": "1191",
+        "expected_gold_answer": "3.13",
+        "output_prediction": "3.13",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of french-speaking people in canada in 2011? : 1195": {
+        "query": "what was the percentage of french-speaking people in canada in 2011?",
+        "table_name": "1195",
+        "expected_gold_answer": "22.9",
+        "output_prediction": "3.9",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the low boundary of percentage of french-speaking people in canada is projected to be in 2036 ? : 1195": {
+        "query": "what is the low boundary of percentage of french-speaking people in canada is projected to be in 2036 ?",
+        "table_name": "1195",
+        "expected_gold_answer": "20.2",
+        "output_prediction": "The specific percentage is not available, but the trend for Quebec under a low immigration scenario could be used as a proxy for the trend in Canada.",
+        "iterations": 5,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what is the high boundary of percentage of french-speaking people in canada is projected to be in 2036 ? : 1195": {
+        "query": "what is the high boundary of percentage of french-speaking people in canada is projected to be in 2036 ?",
+        "table_name": "1195",
+        "expected_gold_answer": "20.9",
+        "output_prediction": "20.0",
+        "iterations": 5,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of french-speaking people in quebec in 2011? : 1195": {
+        "query": "what was the percentage of french-speaking people in quebec in 2011?",
+        "table_name": "1195",
+        "expected_gold_answer": "85.4",
+        "output_prediction": "78.1",
+        "iterations": 5,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the low boundary of percentage of french-speaking people in quebec is projected to be in 2036 ? : 1195": {
+        "query": "what is the low boundary of percentage of french-speaking people in quebec is projected to be in 2036 ?",
+        "table_name": "1195",
+        "expected_gold_answer": "82.0",
+        "output_prediction": "The low boundary of the percentage of French-speaking people in Quebec projected to be in 2036 cannot be directly determined from the available data. However, based on the available data, we can infer that the percentage of French-speaking people in Quebec is likely to decrease under the 'low immigration' scenario. Since the data for the 'low immigration' projection for Quebec is missing, we cannot provide a specific percentage.",
+        "iterations": 4,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "what is the high boundary of percentage of french-speaking people in quebec is projected to be in 2036 ? : 1195": {
+        "query": "what is the high boundary of percentage of french-speaking people in quebec is projected to be in 2036 ?",
+        "table_name": "1195",
+        "expected_gold_answer": "83.0",
+        "output_prediction": "77.8",
+        "iterations": 5,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of french-speaking people outside quebec in 2011? : 1195": {
+        "query": "what was the percentage of french-speaking people outside quebec in 2011?",
+        "table_name": "1195",
+        "expected_gold_answer": "3.9",
+        "output_prediction": "The data is not available to directly answer the question about the percentage of French-speaking people outside Quebec in 2011. Without more specific data, any answer would be speculative.",
+        "iterations": 5,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of rc-prs from the 1999 cohort collected social assistance one year after initiating their claim? : 1219": {
+        "query": "what is the percentage of rc-prs from the 1999 cohort collected social assistance one year after initiating their claim?",
+        "table_name": "1219",
+        "expected_gold_answer": "73.8",
+        "output_prediction": "23.1",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of rc-prs from the 1999 cohort reported receiving social assistance after six years? : 1219": {
+        "query": "what is the percentage of rc-prs from the 1999 cohort reported receiving social assistance after six years?",
+        "table_name": "1219",
+        "expected_gold_answer": "20.5",
+        "output_prediction": "20.5",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of rc-prs from the 2010 cohort registered social assistance one years after their initial claim? : 1219": {
+        "query": "what is the percentage of rc-prs from the 2010 cohort registered social assistance one years after their initial claim?",
+        "table_name": "1219",
+        "expected_gold_answer": "71.1",
+        "output_prediction": "96.7",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of gars who landed in 1999 reported to have social assistance income one year later? : 1219": {
+        "query": "what is the percentage of gars who landed in 1999 reported to have social assistance income one year later?",
+        "table_name": "1219",
+        "expected_gold_answer": "90.8",
+        "output_prediction": "73.8",
+        "iterations": 6,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of gars from the 1999 cohort reported to have social assistance income six years after landing? : 1219": {
+        "query": "what is the percentage of gars from the 1999 cohort reported to have social assistance income six years after landing?",
+        "table_name": "1219",
+        "expected_gold_answer": "22.2",
+        "output_prediction": "20.5",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of gars from the 2010 cohort reported to have social assistance income one years after landing? : 1219": {
+        "query": "what is the percentage of gars from the 2010 cohort reported to have social assistance income one years after landing?",
+        "table_name": "1219",
+        "expected_gold_answer": "96.7",
+        "output_prediction": "90.3",
+        "iterations": 5,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of gars from the 2010 cohort reported to have social assistance income six years after landing? : 1219": {
+        "query": "what is the percentage of gars from the 2010 cohort reported to have social assistance income six years after landing?",
+        "table_name": "1219",
+        "expected_gold_answer": "48.4",
+        "output_prediction": "19.8",
+        "iterations": 7,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "from the 1999 cohort to the 2010 cohort,how many percentage points of rc-prs who received social assistance income six years after making their initial claim have declined? : 1219": {
+        "query": "from the 1999 cohort to the 2010 cohort,how many percentage points of rc-prs who received social assistance income six years after making their initial claim have declined?",
+        "table_name": "1219",
+        "expected_gold_answer": "0.7",
+        "output_prediction": "27.9",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "according to the provincial and territorial rate,how many officers per 100,000 population have? : 1223": {
+        "query": "according to the provincial and territorial rate,how many officers per 100,000 population have?",
+        "table_name": "1223",
+        "expected_gold_answer": "187.0",
+        "output_prediction": "187",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the total number of games made by billy spencer for stoke city? : 122_totto14287-1": {
+        "query": "what was the total number of games made by billy spencer for stoke city?",
+        "table_name": "122_totto14287-1",
+        "expected_gold_answer": "354.0",
+        "output_prediction": "341",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which club did luke rodgers play for in 2012? : 122_totto14413-3": {
+        "query": "which club did luke rodgers play for in 2012?",
+        "table_name": "122_totto14413-3",
+        "expected_gold_answer": "lillestr\u00f8m sk",
+        "output_prediction": "lillestr\u00f8m sk",
+        "iterations": 4,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what the matches did gremio participate in? : 124_totto14665-1": {
+        "query": "what the matches did gremio participate in?",
+        "table_name": "124_totto14665-1",
+        "expected_gold_answer": "campeonato brasileiro serie a|copa do brasil|copa libertadores|primeira liga / campeonato gaucho",
+        "output_prediction": "Campeonato Brasileiro S\u00e9rie A, Copa do Brasil, Copa Libertadores, Primeira Liga/Campeonato Ga\u00facho",
+        "iterations": 4,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "how many rushing yards did matt asiata get in 2008? : 124_totto14730-2": {
+        "query": "how many rushing yards did matt asiata get in 2008?",
+        "table_name": "124_totto14730-2",
+        "expected_gold_answer": "707.0",
+        "output_prediction": "707",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what the two types of firms did the asm sample divide into? : 1276": {
+        "query": "what the two types of firms did the asm sample divide into?",
+        "table_name": "1276",
+        "expected_gold_answer": "small firms|large firms",
+        "output_prediction": "small firms, large firms",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "in terms of the type of care needed, which one was the most likely to be met? : 1277": {
+        "query": "in terms of the type of care needed, which one was the most likely to be met?",
+        "table_name": "1277",
+        "expected_gold_answer": "medication",
+        "output_prediction": "medication",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which type of need was the most likely to be fully unmet? : 1277": {
+        "query": "which type of need was the most likely to be fully unmet?",
+        "table_name": "1277",
+        "expected_gold_answer": "counselling, therapy or help for problems with personal relationships",
+        "output_prediction": "counselling, therapy or help for problems with personal relationships",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "how many passing yards did detmer get for colorado totally? : 127_totto15163-1": {
+        "query": "how many passing yards did detmer get for colorado totally?",
+        "table_name": "127_totto15163-1",
+        "expected_gold_answer": "5390.0",
+        "output_prediction": "5,390",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of these products and services comprising of the cpi basket? : 1283": {
+        "query": "what is the percentage of these products and services comprising of the cpi basket?",
+        "table_name": "1283",
+        "expected_gold_answer": "4.71",
+        "output_prediction": "3.59",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which age group is the highest 2013 rate of volunteering? : 1289": {
+        "query": "which age group is the highest 2013 rate of volunteering?",
+        "table_name": "1289",
+        "expected_gold_answer": "15 to 19",
+        "output_prediction": "59",
+        "iterations": 6,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of canadians aged 15 to 19 volunteering their time in 2013? : 1289": {
+        "query": "what is the percentage of canadians aged 15 to 19 volunteering their time in 2013?",
+        "table_name": "1289",
+        "expected_gold_answer": "66.0",
+        "output_prediction": "66",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "which age group is the lowest rate of volunteering recorded among in 2013? : 1289": {
+        "query": "which age group is the lowest rate of volunteering recorded among in 2013?",
+        "table_name": "1289",
+        "expected_gold_answer": "75 years and older",
+        "output_prediction": "20 to 24",
+        "iterations": 5,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of canadians with a school-aged child in the household volunteering their time in 2013? : 1289": {
+        "query": "what is the percentage of canadians with a school-aged child in the household volunteering their time in 2013?",
+        "table_name": "1289",
+        "expected_gold_answer": "59.0",
+        "output_prediction": "59",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of canadians with both preschool and school-aged children in the household volunteering their time in 2013? : 1289": {
+        "query": "what is the percentage of canadians with both preschool and school-aged children in the household volunteering their time in 2013?",
+        "table_name": "1289",
+        "expected_gold_answer": "52.0",
+        "output_prediction": "52",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the volunteer rate for those without children in 2013? : 1289": {
+        "query": "what is the volunteer rate for those without children in 2013?",
+        "table_name": "1289",
+        "expected_gold_answer": "38.0",
+        "output_prediction": "38",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the peak chart position on the us of the debut album love is dead ? : 128_totto15628-4": {
+        "query": "what was the peak chart position on the us of the debut album love is dead ?",
+        "table_name": "128_totto15628-4",
+        "expected_gold_answer": "126.0",
+        "output_prediction": "126",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the rate of volunteering among canadians with a household income below $20,000? : 1290": {
+        "query": "what is the rate of volunteering among canadians with a household income below $20,000?",
+        "table_name": "1290",
+        "expected_gold_answer": "33.0",
+        "output_prediction": "The required information about the rate of volunteering among Canadians with a household income below $20,000 is not available in the given data.",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "what is the rate of volunteering among canadians with a household income of $120,000 or more? : 1290": {
+        "query": "what is the rate of volunteering among canadians with a household income of $120,000 or more?",
+        "table_name": "1290",
+        "expected_gold_answer": "52.0",
+        "output_prediction": "The data does not provide the necessary information to determine the rate of volunteering among Canadians with a household income of $120,000 or more.",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "which kind of household income of volunteers dedicate the fewest number of hours? : 1290": {
+        "query": "which kind of household income of volunteers dedicate the fewest number of hours?",
+        "table_name": "1290",
+        "expected_gold_answer": "$120,000 and over",
+        "output_prediction": "$120,000 and over",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "how many hours do the volunteers with a household income of $120,000 or more contribute over the course of a year? : 1290": {
+        "query": "how many hours do the volunteers with a household income of $120,000 or more contribute over the course of a year?",
+        "table_name": "1290",
+        "expected_gold_answer": "130.0",
+        "output_prediction": "6760",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of volunteers organizing, supervising or coordinating events in 2013? : 1291": {
+        "query": "what is the percentage of volunteers organizing, supervising or coordinating events in 2013?",
+        "table_name": "1291",
+        "expected_gold_answer": "46.0",
+        "output_prediction": "46",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of volunteers helping with fundraising in 2013? : 1291": {
+        "query": "what is the percentage of volunteers helping with fundraising in 2013?",
+        "table_name": "1291",
+        "expected_gold_answer": "45.0",
+        "output_prediction": "45",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of volunteers sitting on a committee or board in 2004? : 1291": {
+        "query": "what is the percentage of volunteers sitting on a committee or board in 2004?",
+        "table_name": "1291",
+        "expected_gold_answer": "36.0",
+        "output_prediction": "33",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of volunteers sitting on a committee or board in 2013? : 1291": {
+        "query": "what is the percentage of volunteers sitting on a committee or board in 2013?",
+        "table_name": "1291",
+        "expected_gold_answer": "33.0",
+        "output_prediction": "33",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in which year is the prevalence of sitting on a committee or board less , 2004 or 2013? : 1291": {
+        "query": "in which year is the prevalence of sitting on a committee or board less , 2004 or 2013?",
+        "table_name": "1291",
+        "expected_gold_answer": "2013",
+        "output_prediction": "2013",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the winning percentage of bengals coached by dick lebeau ? : 129_totto15670-1": {
+        "query": "what was the winning percentage of bengals coached by dick lebeau ?",
+        "table_name": "129_totto15670-1",
+        "expected_gold_answer": "0.267",
+        "output_prediction": ".267",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "which group of decedents were less likely to experience continuous employment, made less in employment income, and were more likely to be reliant on social assistance, those who had contact with police in 24 months prior to death or those who had no contact with police in 24 months prior to death? : 1308": {
+        "query": "which group of decedents were less likely to experience continuous employment, made less in employment income, and were more likely to be reliant on social assistance, those who had contact with police in 24 months prior to death or those who had no contact with police in 24 months prior to death?",
+        "table_name": "1308",
+        "expected_gold_answer": "at least one contact with police in 24 months prior to death",
+        "output_prediction": "Decedents with no police contact in 24 months prior to death",
+        "iterations": 4,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "among decedents who had contact with police in 24 months prior to deaths, what is the percentage of those who were employed in each of the 5 years prior to their fatal overdose? : 1308": {
+        "query": "among decedents who had contact with police in 24 months prior to deaths, what is the percentage of those who were employed in each of the 5 years prior to their fatal overdose?",
+        "table_name": "1308",
+        "expected_gold_answer": "20.0",
+        "output_prediction": "34, 47, 20",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "among decedents who had did not contact with police in 24 months prior to deaths, what is the percentage of those who were employed in each of the 5 years prior to their fatal overdose? : 1308": {
+        "query": "among decedents who had did not contact with police in 24 months prior to deaths, what is the percentage of those who were employed in each of the 5 years prior to their fatal overdose?",
+        "table_name": "1308",
+        "expected_gold_answer": "29.0",
+        "output_prediction": "34, 37, 29",
+        "iterations": 4,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "which group of decedents earned less in the 2 years preceding their overdose death, those who had contact with the police or those who did not have contact with police? : 1308": {
+        "query": "which group of decedents earned less in the 2 years preceding their overdose death, those who had contact with the police or those who did not have contact with police?",
+        "table_name": "1308",
+        "expected_gold_answer": "at least one contact with police in 24 months prior to death",
+        "output_prediction": "15,325",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what is the mean total income of decedents who had contact with police for the last year they were employed? : 1308": {
+        "query": "what is the mean total income of decedents who had contact with police for the last year they were employed?",
+        "table_name": "1308",
+        "expected_gold_answer": "15325.0",
+        "output_prediction": "15,325",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the mean total income of decedents who did not have contact with police for the last year they were employed? : 1308": {
+        "query": "what is the mean total income of decedents who did not have contact with police for the last year they were employed?",
+        "table_name": "1308",
+        "expected_gold_answer": "25207.0",
+        "output_prediction": "25,207",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of in-scope birth records to all census records? : 1312": {
+        "query": "what is the percentage of in-scope birth records to all census records?",
+        "table_name": "1312",
+        "expected_gold_answer": "90.3",
+        "output_prediction": "100",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "among all types of birth, what is the percentage of births surviving to age 1? : 1312": {
+        "query": "among all types of birth, what is the percentage of births surviving to age 1?",
+        "table_name": "1312",
+        "expected_gold_answer": "90.5",
+        "output_prediction": "98.9",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "among all types of birth, what is the linkage rates for stillbirths? : 1312": {
+        "query": "among all types of birth, what is the linkage rates for stillbirths?",
+        "table_name": "1312",
+        "expected_gold_answer": "76.3",
+        "output_prediction": "76.3",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "among all types of birth, what is the linkage rates for infant deaths matched to a birth registration? : 1312": {
+        "query": "among all types of birth, what is the linkage rates for infant deaths matched to a birth registration?",
+        "table_name": "1312",
+        "expected_gold_answer": "79.8",
+        "output_prediction": "0.0",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "among all types of birth, what is the linkage rates for infant deaths not matched to a birth registration? : 1312": {
+        "query": "among all types of birth, what is the linkage rates for infant deaths not matched to a birth registration?",
+        "table_name": "1312",
+        "expected_gold_answer": "0.0",
+        "output_prediction": "0.0",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "which one has been growing more rapidly during these three years, the production of dried cannabis or the sales? : 1319": {
+        "query": "which one has been growing more rapidly during these three years, the production of dried cannabis or the sales?",
+        "table_name": "1319",
+        "expected_gold_answer": "production",
+        "output_prediction": "Production",
+        "iterations": 4,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "how many rusing yards did alexander get in 2006? : 132_totto16111-1": {
+        "query": "how many rusing yards did alexander get in 2006?",
+        "table_name": "132_totto16111-1",
+        "expected_gold_answer": "896.0",
+        "output_prediction": "896",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in 2019, what was the number of incidents per 100,000 population of police-reported child pornography? : 1336": {
+        "query": "in 2019, what was the number of incidents per 100,000 population of police-reported child pornography?",
+        "table_name": "1336",
+        "expected_gold_answer": "23.0",
+        "output_prediction": "23",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in 2019, what was the national rate of police-reported child pornography increased? : 1336": {
+        "query": "in 2019, what was the national rate of police-reported child pornography increased?",
+        "table_name": "1336",
+        "expected_gold_answer": "46.0",
+        "output_prediction": "23",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in 2019, the national rate of police-reported child pornography increased 46%, what was an increase of incidents from 2018? : 1336": {
+        "query": "in 2019, the national rate of police-reported child pornography increased 46%, what was an increase of incidents from 2018?",
+        "table_name": "1336",
+        "expected_gold_answer": "2881",
+        "output_prediction": "2881",
+        "iterations": 5,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the number of violent offences specific to firearms increased by in 2019? : 1336": {
+        "query": "what was the number of violent offences specific to firearms increased by in 2019?",
+        "table_name": "1336",
+        "expected_gold_answer": "642",
+        "output_prediction": "642",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "the number of violent offences specific to firearms increased by 642 incidents in 2019 (from 2,861 in 2018 to 3,503 in 2019), what was the increase in rate? : 1336": {
+        "query": "the number of violent offences specific to firearms increased by 642 incidents in 2019 (from 2,861 in 2018 to 3,503 in 2019), what was the increase in rate?",
+        "table_name": "1336",
+        "expected_gold_answer": "21.0",
+        "output_prediction": "12",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in 2019, what was combined total of the immigration and refugee protection act (irpa)? : 1336": {
+        "query": "in 2019, what was combined total of the immigration and refugee protection act (irpa)?",
+        "table_name": "1336",
+        "expected_gold_answer": "170.0",
+        "output_prediction": "170",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in total, how many drug-impaired driving violations in 2019? : 1336": {
+        "query": "in total, how many drug-impaired driving violations in 2019?",
+        "table_name": "1336",
+        "expected_gold_answer": "6453.0",
+        "output_prediction": "6,453",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of the national rate of major assault (level 2 and 3) increased in 2019 for the fifth consecutive year due to higher rates of assault with a weapon or causing bodily harm (level 2)? : 1337": {
+        "query": "what was the percent of the national rate of major assault (level 2 and 3) increased in 2019 for the fifth consecutive year due to higher rates of assault with a weapon or causing bodily harm (level 2)?",
+        "table_name": "1337",
+        "expected_gold_answer": "8.0",
+        "output_prediction": "4",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which cma had the largest rate increases? : 1339": {
+        "query": "which cma had the largest rate increases?",
+        "table_name": "1339",
+        "expected_gold_answer": "greater sudbury",
+        "output_prediction": "thunder bay",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "which cma had the largest fraud decreases rate? : 1339": {
+        "query": "which cma had the largest fraud decreases rate?",
+        "table_name": "1339",
+        "expected_gold_answer": "moncton",
+        "output_prediction": "guelph",
+        "iterations": 7,
+        "EM": 0,
+        "LLM_EVAL": 0
+    },
+    "for the fourth consecutive year, how many homicides per 100,000 population did thunder bay have which recorded the highest homicide rate among cmas? : 1339": {
+        "query": "for the fourth consecutive year, how many homicides per 100,000 population did thunder bay have which recorded the highest homicide rate among cmas?",
+        "table_name": "1339",
+        "expected_gold_answer": "5.56",
+        "output_prediction": "5.56",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "the largest gain in representation was observed within the u.s. federal government, where women nearly doubled their share, how many percent of all federally employed seh doctorate holders in 1997? : 133_64_sdr17-ib-19307-tab003": {
+        "query": "the largest gain in representation was observed within the u.s. federal government, where women nearly doubled their share, how many percent of all federally employed seh doctorate holders in 1997?",
+        "table_name": "133_64_sdr17-ib-19307-tab003",
+        "expected_gold_answer": "18.8",
+        "output_prediction": "18.8",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "the largest gain in representation was observed within the u.s. federal government, where women nearly doubled their share, how many percent of all federally employed seh doctorate holders in 2017? : 133_64_sdr17-ib-19307-tab003": {
+        "query": "the largest gain in representation was observed within the u.s. federal government, where women nearly doubled their share, how many percent of all federally employed seh doctorate holders in 2017?",
+        "table_name": "133_64_sdr17-ib-19307-tab003",
+        "expected_gold_answer": "35.4",
+        "output_prediction": "18.8",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percent was the share of women employed in the 4-year educational institution sector in 1997? : 133_64_sdr17-ib-19307-tab003": {
+        "query": "how many percent was the share of women employed in the 4-year educational institution sector in 1997?",
+        "table_name": "133_64_sdr17-ib-19307-tab003",
+        "expected_gold_answer": "24.9",
+        "output_prediction": "24.9",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many percent was the share of women employed in the 4-year educational institution sector in 2017? : 133_64_sdr17-ib-19307-tab003": {
+        "query": "how many percent was the share of women employed in the 4-year educational institution sector in 2017?",
+        "table_name": "133_64_sdr17-ib-19307-tab003",
+        "expected_gold_answer": "37.8",
+        "output_prediction": "24.9",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in 2019, how many total drug offences reported by police? : 1340": {
+        "query": "in 2019, how many total drug offences reported by police?",
+        "table_name": "1340",
+        "expected_gold_answer": "70140.0",
+        "output_prediction": "70,140",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in 2019, there were over 70,100 total drug offences reported by police, what was the rate did total drug offences represent per 100,000 population? : 1340": {
+        "query": "in 2019, there were over 70,100 total drug offences reported by police, what was the rate did total drug offences represent per 100,000 population?",
+        "table_name": "1340",
+        "expected_gold_answer": "187.0",
+        "output_prediction": "187",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "when did huntdown release? : 134_totto16303-1": {
+        "query": "when did huntdown release?",
+        "table_name": "134_totto16303-1",
+        "expected_gold_answer": "2019.0",
+        "output_prediction": "2019",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "northern saskatchewan and northern manitoba had consistently higher violent crime rates than the territories for males and females of all major age groups, how many times did northern saskatchewan have the highest rate for canadians in the territories overall? : 1355": {
+        "query": "northern saskatchewan and northern manitoba had consistently higher violent crime rates than the territories for males and females of all major age groups, how many times did northern saskatchewan have the highest rate for canadians in the territories overall?",
+        "table_name": "1355",
+        "expected_gold_answer": "2.177774",
+        "output_prediction": "3",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the rates of physical assault offences did northern saskatchewan report against young women and girls? : 1356": {
+        "query": "what was the rates of physical assault offences did northern saskatchewan report against young women and girls?",
+        "table_name": "1356",
+        "expected_gold_answer": "10882.0",
+        "output_prediction": "1,007",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the rates of criminal harassment and threat-related offences did northern saskatchewan report against young women and girls? : 1356": {
+        "query": "what was the rates of criminal harassment and threat-related offences did northern saskatchewan report against young women and girls?",
+        "table_name": "1356",
+        "expected_gold_answer": "919.0",
+        "output_prediction": "85",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the highest rates for sexual offences did the northwest territories report? : 1356": {
+        "query": "what was the highest rates for sexual offences did the northwest territories report?",
+        "table_name": "1356",
+        "expected_gold_answer": "1827.0",
+        "output_prediction": "139",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which club did dave hockaday play for in 1990-91? : 137_totto16565-0": {
+        "query": "which club did dave hockaday play for in 1990-91?",
+        "table_name": "137_totto16565-0",
+        "expected_gold_answer": "hull city",
+        "output_prediction": "hull city",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which club did mathieu valbuena play for in 2006-07? : 138_totto16702-4": {
+        "query": "which club did mathieu valbuena play for in 2006-07?",
+        "table_name": "138_totto16702-4",
+        "expected_gold_answer": "marseille",
+        "output_prediction": "marseille",
+        "iterations": 1,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "the majority of the time, what was the percent of other people were present when students experienced unwanted sexualized behaviours? : 1397": {
+        "query": "the majority of the time, what was the percent of other people were present when students experienced unwanted sexualized behaviours?",
+        "table_name": "1397",
+        "expected_gold_answer": "88.0",
+        "output_prediction": "94",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percent of intervention taken by others at cmcs confronting the perpetrator responsible for the behaviour? : 1397": {
+        "query": "what was the percent of intervention taken by others at cmcs confronting the perpetrator responsible for the behaviour?",
+        "table_name": "1397",
+        "expected_gold_answer": "53.0",
+        "output_prediction": "53",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of intervention taken by others at cmcs creating a distraction to try to stop the behaviour? : 1397": {
+        "query": "what was the percent of intervention taken by others at cmcs creating a distraction to try to stop the behaviour?",
+        "table_name": "1397",
+        "expected_gold_answer": "46.0",
+        "output_prediction": "46",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of the cmc students who experienced unwanted sexualized behaviours in the previous 12 months indicated that it was a friend or an acquaintance who was responsible? : 1397": {
+        "query": "what was the percent of the cmc students who experienced unwanted sexualized behaviours in the previous 12 months indicated that it was a friend or an acquaintance who was responsible?",
+        "table_name": "1397",
+        "expected_gold_answer": "53.0",
+        "output_prediction": "53",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of the canadian military college students who experienced unwanted sexualized behaviours in the past 12 months indicated that the person(s) responsible for the behaviours was a man or multiple men? : 1397": {
+        "query": "what was the percent of the canadian military college students who experienced unwanted sexualized behaviours in the past 12 months indicated that the person(s) responsible for the behaviours was a man or multiple men?",
+        "table_name": "1397",
+        "expected_gold_answer": "44.0",
+        "output_prediction": "40",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percent of students indicated that the gender(s) of the perpetrator(s) varied across instances or behaviours- but included both men and women? : 1397": {
+        "query": "what was the percent of students indicated that the gender(s) of the perpetrator(s) varied across instances or behaviours- but included both men and women?",
+        "table_name": "1397",
+        "expected_gold_answer": "45.0",
+        "output_prediction": "53",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percent of cmc students who had a disability experienced some form of unwanted sexualized behaviour in the previous 12 months? : 1402": {
+        "query": "what was the percent of cmc students who had a disability experienced some form of unwanted sexualized behaviour in the previous 12 months?",
+        "table_name": "1402",
+        "expected_gold_answer": "46.0",
+        "output_prediction": "46",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of cmc students who did not have a disability experienced some form of unwanted sexualized behaviour in the previous 12 months? : 1402": {
+        "query": "what was the percent of cmc students who did not have a disability experienced some form of unwanted sexualized behaviour in the previous 12 months?",
+        "table_name": "1402",
+        "expected_gold_answer": "32.0",
+        "output_prediction": "32",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what the percent of male immigrants did the family class account for? : 1404": {
+        "query": "what the percent of male immigrants did the family class account for?",
+        "table_name": "1404",
+        "expected_gold_answer": "28.9",
+        "output_prediction": "28.9",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what the percent of male immigrants did the economic class principal applicants account for? : 1404": {
+        "query": "what the percent of male immigrants did the economic class principal applicants account for?",
+        "table_name": "1404",
+        "expected_gold_answer": "26.2",
+        "output_prediction": "26.2",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what the percent of male immigrants did the economic class dependants account for? : 1404": {
+        "query": "what the percent of male immigrants did the economic class dependants account for?",
+        "table_name": "1404",
+        "expected_gold_answer": "23.5",
+        "output_prediction": "23.5",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what the percent of male immigrants did refugees compris? : 1404": {
+        "query": "what the percent of male immigrants did refugees compris?",
+        "table_name": "1404",
+        "expected_gold_answer": "16.4",
+        "output_prediction": "16.4",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of female immigrants were economic class principal applicants? : 1404": {
+        "query": "what was the percent of female immigrants were economic class principal applicants?",
+        "table_name": "1404",
+        "expected_gold_answer": "12.2",
+        "output_prediction": "12.6364",
+        "iterations": 7,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percent of female immigrants were economic class dependants? : 1404": {
+        "query": "what was the percent of female immigrants were economic class dependants?",
+        "table_name": "1404",
+        "expected_gold_answer": "33.7",
+        "output_prediction": "23.5",
+        "iterations": 7,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percent of female immigrants were economic class family class? : 1404": {
+        "query": "what was the percent of female immigrants were economic class family class?",
+        "table_name": "1404",
+        "expected_gold_answer": "37.4",
+        "output_prediction": "28.9",
+        "iterations": 7,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percent of female immigrants were economic class refugees class? : 1404": {
+        "query": "what was the percent of female immigrants were economic class refugees class?",
+        "table_name": "1404",
+        "expected_gold_answer": "12.7",
+        "output_prediction": "N/A",
+        "iterations": 6,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "how many passing yards did j.j. raterink get in 2012? : 140_totto16928-3": {
+        "query": "how many passing yards did j.j. raterink get in 2012?",
+        "table_name": "140_totto16928-3",
+        "expected_gold_answer": "4870.0",
+        "output_prediction": "4,870",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what the matches did the ifk norrkoping club compete in? : 140_totto16955-4": {
+        "query": "what the matches did the ifk norrkoping club compete in?",
+        "table_name": "140_totto16955-4",
+        "expected_gold_answer": "allsvenskan|2014-15 svenska cupen|2015-16 svenska cupen",
+        "output_prediction": "Allsvenskan, 2015-16 Svenska Cupen, Svenska Supercupen",
+        "iterations": 4,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of finance and insurance and management of companies had the lowest year-on-year growth rates in closures? : 141": {
+        "query": "what was the percent of finance and insurance and management of companies had the lowest year-on-year growth rates in closures?",
+        "table_name": "141",
+        "expected_gold_answer": "38.9",
+        "output_prediction": "44.8",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many dollars were food and beverage services were revis up in 2015? : 1417": {
+        "query": "how many dollars were food and beverage services were revis up in 2015?",
+        "table_name": "1417",
+        "expected_gold_answer": "1100.0",
+        "output_prediction": "1,100",
+        "iterations": 6,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the number of college graduates in the united states in 2017? : 143_69_nscg17-ib19300-tab001": {
+        "query": "what was the number of college graduates in the united states in 2017?",
+        "table_name": "143_69_nscg17-ib19300-tab001",
+        "expected_gold_answer": "61220000.0",
+        "output_prediction": "61220000",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the number of college graduates employed in the united states in 2017? : 143_69_nscg17-ib19300-tab001": {
+        "query": "what was the number of college graduates employed in the united states in 2017?",
+        "table_name": "143_69_nscg17-ib19300-tab001",
+        "expected_gold_answer": "48223000.0",
+        "output_prediction": "48223000",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many college graduates had served on active duty in the u.s. armed forces in the past? : 143_69_nscg17-ib19300-tab001": {
+        "query": "how many college graduates had served on active duty in the u.s. armed forces in the past?",
+        "table_name": "143_69_nscg17-ib19300-tab001",
+        "expected_gold_answer": "3674000.0",
+        "output_prediction": "3674000",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "roughly 3.7 million college graduates had served on active duty in the u.s. armed forces in the past, how many million people currently serving? : 143_69_nscg17-ib19300-tab001": {
+        "query": "roughly 3.7 million college graduates had served on active duty in the u.s. armed forces in the past, how many million people currently serving?",
+        "table_name": "143_69_nscg17-ib19300-tab001",
+        "expected_gold_answer": "241000.0",
+        "output_prediction": "0.71",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many hours do the volunteers with a household income of less than $20,000 contribute over the course of a year? : 1290": {
+        "query": "how many hours do the volunteers with a household income of less than $20,000 contribute over the course of a year?",
+        "table_name": "1290",
+        "expected_gold_answer": "182.0",
+        "output_prediction": "5946",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many goals did jack holliday score for brentford in 1934-35? : 117_totto13611-3": {
+        "query": "how many goals did jack holliday score for brentford in 1934-35?",
+        "table_name": "117_totto13611-3",
+        "expected_gold_answer": "25.0",
+        "output_prediction": "25",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the peak chart position on the us200 of the album roses? : 120_totto14023-2": {
+        "query": "what was the peak chart position on the us200 of the album roses?",
+        "table_name": "120_totto14023-2",
+        "expected_gold_answer": "117.0",
+        "output_prediction": "The album 'Roses' is not included in the table, so there is no information available about its peak chart position on the US200.",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "which club did woodward play for in 1964-65? : 138_totto16682-3": {
+        "query": "which club did woodward play for in 1964-65?",
+        "table_name": "138_totto16682-3",
+        "expected_gold_answer": "stoke city",
+        "output_prediction": "stoke city",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of mining, quarrying, oil and gas extraction had the lowest year-on-year growth rates in closures? : 141": {
+        "query": "what was the percent of mining, quarrying, oil and gas extraction had the lowest year-on-year growth rates in closures?",
+        "table_name": "141",
+        "expected_gold_answer": "47.6",
+        "output_prediction": "-10.6",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the win-loss record of houston astros in regular season? : 143_totto17290-3": {
+        "query": "what was the win-loss record of houston astros in regular season?",
+        "table_name": "143_totto17290-3",
+        "expected_gold_answer": "215.0|197.0",
+        "output_prediction": "215, 197",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "from 1981 to 2009,what's the percentage of the log growth of value-added in oil and gas extraction per year? : 1442": {
+        "query": "from 1981 to 2009,what's the percentage of the log growth of value-added in oil and gas extraction per year?",
+        "table_name": "1442",
+        "expected_gold_answer": "-2.27",
+        "output_prediction": "2.31",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in 2017, how many percent of women in the u.s. civilian college educated population? : 144_69_nscg17-ib19300-tab002": {
+        "query": "in 2017, how many percent of women in the u.s. civilian college educated population?",
+        "table_name": "144_69_nscg17-ib19300-tab002",
+        "expected_gold_answer": "54.4",
+        "output_prediction": "56.24",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many percentage points of male veterans were black? : 144_69_nscg17-ib19300-tab002": {
+        "query": "how many percentage points of male veterans were black?",
+        "table_name": "144_69_nscg17-ib19300-tab002",
+        "expected_gold_answer": "11.3",
+        "output_prediction": "11.3",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many percentage points of female veterans were black? : 144_69_nscg17-ib19300-tab002": {
+        "query": "how many percentage points of female veterans were black?",
+        "table_name": "144_69_nscg17-ib19300-tab002",
+        "expected_gold_answer": "27.8",
+        "output_prediction": "27.8",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the capacity of afsin-elbistan b? : 144_totto17327-0": {
+        "query": "what was the capacity of afsin-elbistan b?",
+        "table_name": "144_totto17327-0",
+        "expected_gold_answer": "1440.0",
+        "output_prediction": "1440",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "which club did luke freeman play for in 2015-16? : 144_totto17343-1": {
+        "query": "which club did luke freeman play for in 2015-16?",
+        "table_name": "144_totto17343-1",
+        "expected_gold_answer": "bristol city",
+        "output_prediction": "Bristol City",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "how many passing yards did tittle get in 1957? : 144_totto17350-2": {
+        "query": "how many passing yards did tittle get in 1957?",
+        "table_name": "144_totto17350-2",
+        "expected_gold_answer": "2157.0",
+        "output_prediction": "2,157",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was an average number of employees per firm in all smes? : 145": {
+        "query": "what was an average number of employees per firm in all smes?",
+        "table_name": "145",
+        "expected_gold_answer": "10.2",
+        "output_prediction": "9.8",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "immigrant-owned firms were smaller, what was an average of employees per firm? : 145": {
+        "query": "immigrant-owned firms were smaller, what was an average of employees per firm?",
+        "table_name": "145",
+        "expected_gold_answer": "8.8",
+        "output_prediction": "8.6",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the average age of firms owned by canadian-born individuals? : 145": {
+        "query": "what was the average age of firms owned by canadian-born individuals?",
+        "table_name": "145",
+        "expected_gold_answer": "20.0",
+        "output_prediction": "51.5",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the average age of firms owned by immigrant-owned individuals? : 145": {
+        "query": "what was the average age of firms owned by immigrant-owned individuals?",
+        "table_name": "145",
+        "expected_gold_answer": "15.5",
+        "output_prediction": "17.0",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "there was a large difference in the proportion of those with a graduate degree, what was the percentage of immigrant owners? : 145": {
+        "query": "there was a large difference in the proportion of those with a graduate degree, what was the percentage of immigrant owners?",
+        "table_name": "145",
+        "expected_gold_answer": "21.9",
+        "output_prediction": "41.7",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "there was a large difference in the proportion of those with a graduate degree, what was the percentage of canadian-born owners? : 145": {
+        "query": "there was a large difference in the proportion of those with a graduate degree, what was the percentage of canadian-born owners?",
+        "table_name": "145",
+        "expected_gold_answer": "12.2",
+        "output_prediction": "37.9",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percent of all firms in the share of smes in kbis? : 145": {
+        "query": "what was the percent of all firms in the share of smes in kbis?",
+        "table_name": "145",
+        "expected_gold_answer": "9.8",
+        "output_prediction": "9.8",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of these immigrant sme owners had a graduate degree? : 145": {
+        "query": "what was the percent of these immigrant sme owners had a graduate degree?",
+        "table_name": "145",
+        "expected_gold_answer": "41.7",
+        "output_prediction": "41.7",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percent of these canadian-born sme owners had a graduate degree? : 145": {
+        "query": "what was the percent of these canadian-born sme owners had a graduate degree?",
+        "table_name": "145",
+        "expected_gold_answer": "25.4",
+        "output_prediction": "21.1",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the muzzle velocity of m93? : 145_totto17495-4": {
+        "query": "what was the muzzle velocity of m93?",
+        "table_name": "145_totto17495-4",
+        "expected_gold_answer": "1,036 m/s",
+        "output_prediction": "1,036 m/s",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what were the percentages of multiple response rates for non-official languages and for french and for english as a mother tongue respectively? : 1468": {
+        "query": "what were the percentages of multiple response rates for non-official languages and for french and for english as a mother tongue respectively?",
+        "table_name": "1468",
+        "expected_gold_answer": "8.2|3.8|3.6",
+        "output_prediction": "8.2%, 3.8%, 3.6%",
+        "iterations": 4,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of respondents who speak french at home in combination with another language, all languages combined? : 1469": {
+        "query": "what was the percentage of respondents who speak french at home in combination with another language, all languages combined?",
+        "table_name": "1469",
+        "expected_gold_answer": "25.4",
+        "output_prediction": "30.74",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the percentage of respondents who speak french at home do not speak any other language at home? : 1469": {
+        "query": "what was the percentage of respondents who speak french at home do not speak any other language at home?",
+        "table_name": "1469",
+        "expected_gold_answer": "74.6",
+        "output_prediction": "74.6",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of respondents who speak an indigenous language speak an indigenous language in combination with another language? : 1469": {
+        "query": "what was the percentage of respondents who speak an indigenous language speak an indigenous language in combination with another language?",
+        "table_name": "1469",
+        "expected_gold_answer": "75.9",
+        "output_prediction": "75.9",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "who were the least likely to have personal computers at home? : 1473": {
+        "query": "who were the least likely to have personal computers at home?",
+        "table_name": "1473",
+        "expected_gold_answer": "lowest quartile",
+        "output_prediction": "mobile devices only",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "who were the most likely to use only mobile devices to access the internet at home. : 1473": {
+        "query": "who were the most likely to use only mobile devices to access the internet at home.",
+        "table_name": "1473",
+        "expected_gold_answer": "lowest quartile",
+        "output_prediction": "lowest quartile",
+        "iterations": 3,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of households in the lowest income quartile reported using only mobile devices for accessing the internet? : 1473": {
+        "query": "what was the percentage of households in the lowest income quartile reported using only mobile devices for accessing the internet?",
+        "table_name": "1473",
+        "expected_gold_answer": "24.1",
+        "output_prediction": "24.1",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what were the percentages of households in the second and third income quartiles reported using only mobile devices for accessing the internet respectively? : 1473": {
+        "query": "what were the percentages of households in the second and third income quartiles reported using only mobile devices for accessing the internet respectively?",
+        "table_name": "1473",
+        "expected_gold_answer": "14.7|13.8",
+        "output_prediction": "14.7, 13.8",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "who were more likely to use only mobile devices to access the internet,households in the second and third income quartiles or households in the highest quartile? : 1473": {
+        "query": "who were more likely to use only mobile devices to access the internet,households in the second and third income quartiles or households in the highest quartile?",
+        "table_name": "1473",
+        "expected_gold_answer": "second quartile|third quartile",
+        "output_prediction": "14.7%, 13.8%, 8.0%",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the changes in the number of completed cases in yukon from 2012/2013 to 2013/2014? : 1493": {
+        "query": "what was the changes in the number of completed cases in yukon from 2012/2013 to 2013/2014?",
+        "table_name": "1493",
+        "expected_gold_answer": "17.0",
+        "output_prediction": "11",
+        "iterations": 4,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the changes in the number of completed cases in northwest territories from 2012/2013 to 2013/2014? : 1493": {
+        "query": "what was the changes in the number of completed cases in northwest territories from 2012/2013 to 2013/2014?",
+        "table_name": "1493",
+        "expected_gold_answer": "2.0",
+        "output_prediction": "3",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the declines in the number of completed cases in prince edward island from 2012/2013 to 2013/2014? : 1493": {
+        "query": "what was the declines in the number of completed cases in prince edward island from 2012/2013 to 2013/2014?",
+        "table_name": "1493",
+        "expected_gold_answer": "25",
+        "output_prediction": "-25",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in the number of completed cases in nova scotia from 2012/2013 to 2013/2014? : 1493": {
+        "query": "what was the declines in the number of completed cases in nova scotia from 2012/2013 to 2013/2014?",
+        "table_name": "1493",
+        "expected_gold_answer": "24",
+        "output_prediction": "-24",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in the number of completed cases in ontario from 2012/2013 to 2013/2014? : 1493": {
+        "query": "what was the declines in the number of completed cases in ontario from 2012/2013 to 2013/2014?",
+        "table_name": "1493",
+        "expected_gold_answer": "16",
+        "output_prediction": "-16",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in property offences from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in property offences from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "15",
+        "output_prediction": "-15",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in administration of justice offences from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in administration of justice offences from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "12",
+        "output_prediction": "-12",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in other federal statute offences from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in other federal statute offences from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "12",
+        "output_prediction": "-12",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in violent offences from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in violent offences from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "8",
+        "output_prediction": "-8",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in cases involving disturbing the peace from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in cases involving disturbing the peace from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "35",
+        "output_prediction": "-35",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in cases involving robbery from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in cases involving robbery from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "18",
+        "output_prediction": "-18",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in cases involving impaired driving from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in cases involving impaired driving from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "25",
+        "output_prediction": "-25",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in drug possession offences from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in drug possession offences from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "15",
+        "output_prediction": "-15",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in other drug offences from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in other drug offences from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "8",
+        "output_prediction": "-8",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the declines in offences involving the use of a weapon from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the declines in offences involving the use of a weapon from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "7",
+        "output_prediction": "-7",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the changes in offences of sexual assault from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the changes in offences of sexual assault from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "8.0",
+        "output_prediction": "8%, 4",
+        "iterations": 1,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the changes in offences of homicide from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the changes in offences of homicide from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "6.0",
+        "output_prediction": "6%, 163",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the changes in offences of other sexual assault from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the changes in offences of other sexual assault from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "5.0",
+        "output_prediction": "5%, 8",
+        "iterations": 2,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the changes in offences of criminal harassment from 2012/2013 to 2013/2014? : 1494": {
+        "query": "what was the changes in offences of criminal harassment from 2012/2013 to 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "3.0",
+        "output_prediction": "3%, 11",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the median length of time to complete homicide cases in 2012/2013? : 1494": {
+        "query": "what was the median length of time to complete homicide cases in 2012/2013?",
+        "table_name": "1494",
+        "expected_gold_answer": "448.0",
+        "output_prediction": "448",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the median length of time to complete attempted murder cases in 2013/2014? : 1494": {
+        "query": "what was the median length of time to complete attempted murder cases in 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "248.0",
+        "output_prediction": "248",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of all cases completed in youth court resulted in a guilty finding in 2013/2014? : 1496": {
+        "query": "what was the percentage of all cases completed in youth court resulted in a guilty finding in 2013/2014?",
+        "table_name": "1496",
+        "expected_gold_answer": "56.0",
+        "output_prediction": "80",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of cases of unlawfully at large resulted in guilty findings? : 1496": {
+        "query": "what is the percentage of cases of unlawfully at large resulted in guilty findings?",
+        "table_name": "1496",
+        "expected_gold_answer": "85.0",
+        "output_prediction": "32.94573643410853",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of cases of youth criminal justice act resulted in guilty findings? : 1496": {
+        "query": "what is the percentage of cases of youth criminal justice act resulted in guilty findings?",
+        "table_name": "1496",
+        "expected_gold_answer": "80.0",
+        "output_prediction": "80",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the percentage of cases of impaired driving resulted in guilty findings? : 1496": {
+        "query": "what is the percentage of cases of impaired driving resulted in guilty findings?",
+        "table_name": "1496",
+        "expected_gold_answer": "79.0",
+        "output_prediction": "24.84",
+        "iterations": 1,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what is the percentage of cases of drug procession resulted in guilty findings? : 1496": {
+        "query": "what is the percentage of cases of drug procession resulted in guilty findings?",
+        "table_name": "1496",
+        "expected_gold_answer": "28.0",
+        "output_prediction": "28",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the winning percentage in the regular season of st. louis cardinals? : 149_totto17951-3": {
+        "query": "what was the winning percentage in the regular season of st. louis cardinals?",
+        "table_name": "149_totto17951-3",
+        "expected_gold_answer": "0.544",
+        "output_prediction": ".544",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "how many goals did arthur bateman (footballer, born 1908) score while he made 154 appearances for brentford? : 14_totto1734-1": {
+        "query": "how many goals did arthur bateman (footballer, born 1908) score while he made 154 appearances for brentford?",
+        "table_name": "14_totto1734-1",
+        "expected_gold_answer": "1.0",
+        "output_prediction": "7",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "when did the single \"tu peor error\" release? : 150_totto17999-1": {
+        "query": "when did the single \"tu peor error\" release?",
+        "table_name": "150_totto17999-1",
+        "expected_gold_answer": "2006.0",
+        "output_prediction": "2006",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the proportion of reasons for not reporting to the police were that the crime was minor and it was not worth taking the time to report? : 1510": {
+        "query": "what was the proportion of reasons for not reporting to the police were that the crime was minor and it was not worth taking the time to report?",
+        "table_name": "1510",
+        "expected_gold_answer": "71.0",
+        "output_prediction": "71",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of reasons for not reporting to the police were that the incident was a private or personal matter and it was handled informally. : 1510": {
+        "query": "what was the percentage of reasons for not reporting to the police were that the incident was a private or personal matter and it was handled informally.",
+        "table_name": "1510",
+        "expected_gold_answer": "67.0",
+        "output_prediction": "67",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the proportion of reasons for not reporting to the police were that no one was harmed during the incident? : 1510": {
+        "query": "what was the proportion of reasons for not reporting to the police were that no one was harmed during the incident?",
+        "table_name": "1510",
+        "expected_gold_answer": "63.0",
+        "output_prediction": "63",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "which sex of people were more likely to state that they did not report to the police because no one was harmed during the incident? : 1510": {
+        "query": "which sex of people were more likely to state that they did not report to the police because no one was harmed during the incident?",
+        "table_name": "1510",
+        "expected_gold_answer": "women",
+        "output_prediction": "women",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "which sex of people were more likely to state that they did not report to the police because there was a lack of evidence? : 1510": {
+        "query": "which sex of people were more likely to state that they did not report to the police because there was a lack of evidence?",
+        "table_name": "1510",
+        "expected_gold_answer": "women",
+        "output_prediction": "Women",
+        "iterations": 2,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because of a lack of evidence? : 1510": {
+        "query": "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because of a lack of evidence?",
+        "table_name": "1510",
+        "expected_gold_answer": "43.0",
+        "output_prediction": "43",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because no harm was intended? : 1510": {
+        "query": "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because no harm was intended?",
+        "table_name": "1510",
+        "expected_gold_answer": "39.0",
+        "output_prediction": "39",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because they did not want others to find out about their victimization? : 1510": {
+        "query": "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because they did not want others to find out about their victimization?",
+        "table_name": "1510",
+        "expected_gold_answer": "30.0",
+        "output_prediction": "30",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because they were afraid that reporting would bring shame and dishonour to their family? : 1510": {
+        "query": "what was the percentage of victims of sexual assault stated that they did not report the incident to the police because they were afraid that reporting would bring shame and dishonour to their family?",
+        "table_name": "1510",
+        "expected_gold_answer": "12.0",
+        "output_prediction": "12",
+        "iterations": 1,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount that gross operating surplus was adjusted upward by for 2013? : 1515": {
+        "query": "what was the amount that gross operating surplus was adjusted upward by for 2013?",
+        "table_name": "1515",
+        "expected_gold_answer": "6806.0",
+        "output_prediction": "1,470",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the amount that gross operating surplus was adjusted upward by for 2014? : 1515": {
+        "query": "what was the amount that gross operating surplus was adjusted upward by for 2014?",
+        "table_name": "1515",
+        "expected_gold_answer": "10446.0",
+        "output_prediction": "10,446",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount that gross operating surplus was adjusted upward by for 2015? : 1515": {
+        "query": "what was the amount that gross operating surplus was adjusted upward by for 2015?",
+        "table_name": "1515",
+        "expected_gold_answer": "1470.0",
+        "output_prediction": "1,470",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount the estimates of employee compensation were revised downward for 2013? : 1515": {
+        "query": "what was the amount the estimates of employee compensation were revised downward for 2013?",
+        "table_name": "1515",
+        "expected_gold_answer": "921",
+        "output_prediction": "No downward revision for 2013",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the amount the estimates of employee compensation were revised downward for 2014? : 1515": {
+        "query": "what was the amount the estimates of employee compensation were revised downward for 2014?",
+        "table_name": "1515",
+        "expected_gold_answer": "588",
+        "output_prediction": "-588",
+        "iterations": 5,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount the estimates of employee compensation were revised upward for 2015? : 1515": {
+        "query": "what was the amount the estimates of employee compensation were revised upward for 2015?",
+        "table_name": "1515",
+        "expected_gold_answer": "1386.0",
+        "output_prediction": "1,386",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount government final consumption expenditure was revised downward in 2013? : 1516": {
+        "query": "what was the amount government final consumption expenditure was revised downward in 2013?",
+        "table_name": "1516",
+        "expected_gold_answer": "3784",
+        "output_prediction": "-3,784",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount government final consumption expenditure was revised downward in 2015? : 1516": {
+        "query": "what was the amount government final consumption expenditure was revised downward in 2015?",
+        "table_name": "1516",
+        "expected_gold_answer": "2118",
+        "output_prediction": "-2,118",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount business gross fixed capital formation was revised upward for 2014? : 1516": {
+        "query": "what was the amount business gross fixed capital formation was revised upward for 2014?",
+        "table_name": "1516",
+        "expected_gold_answer": "14330.0",
+        "output_prediction": "14,330",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount business gross fixed capital formation was revised upward for 2015? : 1516": {
+        "query": "what was the amount business gross fixed capital formation was revised upward for 2015?",
+        "table_name": "1516",
+        "expected_gold_answer": "11293.0",
+        "output_prediction": "11,293",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount the estimates of government gross fixed capital formation were revised downward for 2014? : 1516": {
+        "query": "what was the amount the estimates of government gross fixed capital formation were revised downward for 2014?",
+        "table_name": "1516",
+        "expected_gold_answer": "4472",
+        "output_prediction": "-4,472",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount the estimates of government gross fixed capital formation were revised downward for 2015? : 1516": {
+        "query": "what was the amount the estimates of government gross fixed capital formation were revised downward for 2015?",
+        "table_name": "1516",
+        "expected_gold_answer": "3015",
+        "output_prediction": "-3,015",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount the estimates of business inventories were revised downward for 2015? : 1516": {
+        "query": "what was the amount the estimates of business inventories were revised downward for 2015?",
+        "table_name": "1516",
+        "expected_gold_answer": "3347",
+        "output_prediction": "-3,347",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount exports were revised upward for 2014? : 1516": {
+        "query": "what was the amount exports were revised upward for 2014?",
+        "table_name": "1516",
+        "expected_gold_answer": "1686.0",
+        "output_prediction": "1,803",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the amount exports were revised upward for 2015? : 1516": {
+        "query": "what was the amount exports were revised upward for 2015?",
+        "table_name": "1516",
+        "expected_gold_answer": "1803.0",
+        "output_prediction": "1,803",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what is the margin point of gars who received social assistance income six years after landing between the 1999 and 2010 cohorts? : 1219": {
+        "query": "what is the margin point of gars who received social assistance income six years after landing between the 1999 and 2010 cohorts?",
+        "table_name": "1219",
+        "expected_gold_answer": "26.2",
+        "output_prediction": "1.0",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many goals did lee mcculloch score for wigan totally? : 147_totto17602-3": {
+        "query": "how many goals did lee mcculloch score for wigan totally?",
+        "table_name": "147_totto17602-3",
+        "expected_gold_answer": "46.0",
+        "output_prediction": "9",
+        "iterations": 5,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "which kind of offences took the longest length to complete in 2013/2014? : 1494": {
+        "query": "which kind of offences took the longest length to complete in 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "homicide",
+        "output_prediction": "homicide",
+        "iterations": 5,
+        "EM": 1,
+        "LLM_EVAL": 1
+    },
+    "what was the median length of time to complete sexual assault cases in 2013/2014? : 1494": {
+        "query": "what was the median length of time to complete sexual assault cases in 2013/2014?",
+        "table_name": "1494",
+        "expected_gold_answer": "256.0",
+        "output_prediction": "256",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the amount exports was revised downward for 2013? : 1516": {
+        "query": "what was the amount exports was revised downward for 2013?",
+        "table_name": "1516",
+        "expected_gold_answer": "724",
+        "output_prediction": "921",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "what was the amount imports were revised upward for 2014? : 1516": {
+        "query": "what was the amount imports were revised upward for 2014?",
+        "table_name": "1516",
+        "expected_gold_answer": "3346.0",
+        "output_prediction": "3,346",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of the 2015 graduates who graduated with student debt still had an outstanding debt after three years? : 1519": {
+        "query": "what was the percentage of the 2015 graduates who graduated with student debt still had an outstanding debt after three years?",
+        "table_name": "1519",
+        "expected_gold_answer": "64.4",
+        "output_prediction": "61.5, 17.2, 0.9, 2.0, 8.7, 31.8, 9.8",
+        "iterations": 3,
+        "EM": 0,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of graduates with a professional degree who graduated with student debt still had an outstanding debt after three years ? : 1519": {
+        "query": "what was the percentage of graduates with a professional degree who graduated with student debt still had an outstanding debt after three years ?",
+        "table_name": "1519",
+        "expected_gold_answer": "61.5",
+        "output_prediction": "61.5",
+        "iterations": 4,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the percentage of college graduates who graduated with student debt still had an outstanding debt after three years ? : 1519": {
+        "query": "what was the percentage of college graduates who graduated with student debt still had an outstanding debt after three years ?",
+        "table_name": "1519",
+        "expected_gold_answer": "66.0",
+        "output_prediction": "48.1",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "the median student debt at graduation for those who had not repaid their debt in 2018 was at least twice as high as for those who had repaid their debt in full in three years.what was the times the median student debt at graduation for those who had not repaid their debt in 2018 higher than those who had repaid their debt in full in three years? : 1519": {
+        "query": "the median student debt at graduation for those who had not repaid their debt in 2018 was at least twice as high as for those who had repaid their debt in full in three years.what was the times the median student debt at graduation for those who had not repaid their debt in 2018 higher than those who had repaid their debt in full in three years?",
+        "table_name": "1519",
+        "expected_gold_answer": "2.209954",
+        "output_prediction": "2.21",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "what was the median debt at graduation for those who had repaid their debt? : 1519": {
+        "query": "what was the median debt at graduation for those who had repaid their debt?",
+        "table_name": "1519",
+        "expected_gold_answer": "9926.0",
+        "output_prediction": "9,926",
+        "iterations": 3,
+        "EM": true,
+        "LLM_EVAL": 1
+    },
+    "in fy 2016, how many thousand dollars was r&d support? : 151_72_tab3": {
+        "query": "in fy 2016, how many thousand dollars was r&d support?",
+        "table_name": "151_72_tab3",
+        "expected_gold_answer": "257894.2",
+        "output_prediction": "119792.2",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in fy 2016, how many percent of total s&e support to hbcus did r&d account for? : 151_72_tab3": {
+        "query": "in fy 2016, how many percent of total s&e support to hbcus did r&d account for?",
+        "table_name": "151_72_tab3",
+        "expected_gold_answer": "0.691446",
+        "output_prediction": "69.15",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in fy 2016, how many percent of total s&e support to total s&e support to hbcus did fttg account for? : 151_72_tab3": {
+        "query": "in fy 2016, how many percent of total s&e support to total s&e support to hbcus did fttg account for?",
+        "table_name": "151_72_tab3",
+        "expected_gold_answer": "0.15156",
+        "output_prediction": "15.16",
+        "iterations": 2,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "in fy 2016, how many percent of total s&e support to total s&e support to hbcus did other s&e activities account for? : 151_72_tab3": {
+        "query": "in fy 2016, how many percent of total s&e support to total s&e support to hbcus did other s&e activities account for?",
+        "table_name": "151_72_tab3",
+        "expected_gold_answer": "0.137219",
+        "output_prediction": "13.7",
+        "iterations": 3,
+        "EM": false,
+        "LLM_EVAL": 0
+    },
+    "how many yards did fuller get in 2015? : 151_totto18157-1": {
+        "query": "how many yards did fuller get in 2015?",
+        "table_name": "151_totto18157-1",
+        "expected_gold_answer": "1258.0",
+        "output_prediction": "1,258",
+        "iterations": 2,
+        "EM": true,
+        "LLM_EVAL": 1
+    }
+}

@@ -1,0 +1,33 @@
+import openai
+
+class OpenAIEmbedder:
+    def __init__(self, model_name, api_key):
+        self.model = model_name
+        openai.api_key = self.get_api_key(api_key)
+        return
+
+    def get_api_key(self, api_key_path):
+        if api_key_path is not None:
+            return self.get_key(api_key_path)
+        else:
+            raise ValueError("api_key_path is required")
+        return
+
+    def get_key(self, key_path):
+        try:
+            with open(key_path, 'r') as f:
+                key = f.read().strip()
+        except FileNotFoundError:
+            raise FileNotFoundError(f'Key file not found at {key_path}')
+        return key
+
+    def get_embedding(self, text):
+        try:
+            response = openai.embeddings.create(
+                input=text,
+                model=self.model
+            )
+            return response.data[0].embedding
+        except Exception as e:
+            print(f"Error generating embedding: {e}")
+            return None

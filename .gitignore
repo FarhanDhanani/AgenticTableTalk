@@ -8,6 +8,12 @@ dataset/hitab/cache*.pkl
 # Ignore dataset AIT-QA cache files
 dataset/AIT-QA/cache*.pkl
 
+# Ignore dataset SYNTHETIC cache files
+dataset/synthetic/cache*.pkl
+
+# Ignore dataset SYNTHETIC OLD cache files
+dataset/synthetic/old/*
+
 # Ignore all .vscode files except settings.json and launch.json files
 .vscode/*
 !.vscode/settings.json
