@@ -3,19 +3,19 @@
         "query": "How many units of Mercedes car were sold?",
         "table_name": "tab-0",
         "expected_gold_answer": "2090",
-        "output_prediction": "2090, 767",
+        "output_prediction": "2090",
         "iterations": 3,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the revenue from Suzuki Alto Car? : tab-1": {
         "query": "What was the revenue from Suzuki Alto Car?",
         "table_name": "tab-1",
         "expected_gold_answer": "$502727.18",
-        "output_prediction": "$15190.85",
+        "output_prediction": "$502727.18",
         "iterations": 2,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What was the profit margin for Honda Bike? : tab-2": {
         "query": "What was the profit margin for Honda Bike?",

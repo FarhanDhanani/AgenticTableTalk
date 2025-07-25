@@ -30,9 +30,9 @@
         "query": "How many units of Macbook Pro were sold?",
         "table_name": "tab-3",
         "expected_gold_answer": "2090",
-        "output_prediction": "Cannot determine, Estimated units sold = 382",
+        "output_prediction": "2090",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the revenue from Samsung A04? : tab-4": {
