@@ -2,7 +2,7 @@ import json
 import jsonlines
 from enum import Enum
 base_path = "./dataset/"
-file_names = ["gemini-1.5-flash.json", "qwen-qwen-2-72b-instruct.json", "qwen-qwen3-14b.json", "qwen-qwen3-8b.json", "google-gemma-3-12b-it.json", "google-gemma-3-4b-it.json"];
+file_names = ["gemini-1.5-flash.json"];
 #file_names = ["qwen-qwen3-14b.json"]
 class DataSet(Enum):
     HITAB = 'hitab'

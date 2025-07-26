@@ -8,11 +8,15 @@
             "name": "Python Debugger: Graph Otter",
             "type": "debugpy",
             "request": "launch",
-            "program": "main.py",
+            "program": "count_gemni-1.5-flash_tokens.py",
             "console": "integratedTerminal",
+            "justMyCode": false,
             "env": {
-                "CUDA_VISIBLE_DEVICES": "0"
+                "PYTHONUNBUFFERED": "1",
+                "CUDA_VISIBLE_DEVICES": "0",
+                "TRANSFORMERS_VERBOSITY": "debug",
             },
+            "subProcess": true,
             //"pythonArgs": ["-W", "ignore"],
             "args": [
                 //"--model", "gpt-3.5-turbo",
@@ -21,36 +25,53 @@
                 //"--model", "llama3", 
                 //"--model", "Qwen/Qwen2-72B-Instruct", // necessary in the case when Qwen2 is used
                 //"--key_path", "keys/runpod_vllm_pass.txt", // necessary in the case when Qwen2 is deployed on runpod via VLLM
-                "--model", "gemini-1.5-flash",
+                "--model", "gemini-2.5-flash",
                 "--key_path", "keys/gemni_pass.txt",
+                //"--model", "google/gemma-3-12b-it",
+                //"--key_path", "keys/openrouter_pass.txt",
+                //"--embedder_path", "text-embedding-3-small",
                 "--embedder_path", "jmorgan/gte-small:latest",
+                "--embedder_model_key_path", "keys/openai_pass.txt",
+                //"--embedder_base_path", "",
                 "--temperature", "0.0",
                 "--max_iteration_depth", "6",
                 "--seed", "42",
                 "--eval_model", "gpt-3.5-turbo",
                 "--eval_model_key_path", "keys/openai_pass.txt",
-                //"--start", "0", // necessary in the case when debugging is required, specially when model is hosted via VLLM
+                //"--start", "10", // necessary in the case when debugging is required, specially when model is hosted via VLLM
                 "--end", "1", // necessary in the case when debugging is required, specially when model is hosted via VLLM
                 
                 //"--base_url", "https://94zmpqe0wq9oxc-8000.proxy.runpod.net/v1", // only use it in the case when llm is hosted on ollama or vllm 
+                //"--base_url", "https://openrouter.ai/api/v1", // only use it in the case when llm is hosted on ollama or vllm or openrouter or deep infra
+
+                //"--model", "qwen/qwen-2-72b-instruct",
+                //"--key_path", "keys/openrouter_pass.txt", // necessary in the case when Qwen3 is deployed on runpod via VLLM
+                //"--base_url", "https://openrouter.ai/api/v1",
 
                 // Vallues for ait-qa dataset
-                 "--dataset", "ait-qa", 
-                 "--qa_path", "dataset/AIT-QA/aitqa_clean_questions.json",
-                 "--table_folder", "dataset/AIT-QA/aitqa_clean_tables.json",
-                 "--embed_cache_dir", "dataset/AIT-QA/",
+                  "--dataset", "ait-qa", 
+                  "--qa_path", "dataset/AIT-QA/aitqa_clean_questions.json",
+                  "--table_folder", "dataset/AIT-QA/aitqa_clean_tables.json",
+                  "--embed_cache_dir", "dataset/AIT-QA/",
 
                 // Values for hitab dataset
-                //"--dataset", "hitab",
-                //"--qa_path", "dataset/hitab/test_samples.jsonl",
-                //"--table_folder", "dataset/hitab/raw/",
-                //"--embed_cache_dir", "dataset/hitab/",
+                // "--dataset", "hitab",
+                // "--qa_path", "dataset/hitab/test_samples.jsonl",
+                // "--table_folder", "dataset/hitab/raw/",
+                // "--embed_cache_dir", "dataset/hitab/",
+
+                // Values for synthetic dataset
+                // "--dataset", "ait-qa",
+                // "--qa_path", "dataset/synthetic/up_generated_large_table_questions.json",
+                // "--table_folder", "dataset/synthestic/up_large_tables/",
+                // "--embed_cache_dir", "dataset/synthetic/",
                 
-                
-                // "--pre_process_tables","true", //flag to start pre-processing the tables.
-                // "--save_markdown", "true", //flag to save the markdown file generated from after converting the table
-                // "--generate_meta", "true", //flag to generate the meta information extracted from the markdown table
-                // "--exit_after_preprocess", "true" // quit the program after generating pre-processing files.
+                //"--pre_process_tables","true", //flag to start pre-processing the tables.
+                //"--save_markdown", "true", //flag to save the markdown file generated from after converting the table
+                //"--generate_meta", "true", //flag to generate the meta information extracted from the markdown table
+                //"--exit_after_preprocess", "true" // quit the program after generating pre-processing files.
+
+
             ]
         }
     ]
