@@ -102,9 +102,9 @@
         "query": "what was the open market share repurchases by Southwest Airlines in 2019 ?",
         "table_name": "tab-16",
         "expected_gold_answer": "0.95",
-        "output_prediction": "0.95, 50",
+        "output_prediction": "0.95",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "how much was the cash paid by Southwest in Q2 2019 Accelerated Share Repurchase Program? : tab-16": {
@@ -228,10 +228,10 @@
         "query": "In 2019, What was the CASM value for Southwest Airline excluding fuel ?",
         "table_name": "tab-12",
         "expected_gold_answer": "9.62",
-        "output_prediction": "8.88",
-        "iterations": 4,
+        "output_prediction": "Around 9.62",
+        "iterations": 5,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "show me Southwest's Yield Per Passenger Mile in 2018 : tab-12": {
         "query": "show me Southwest's Yield Per Passenger Mile in 2018",
@@ -363,9 +363,9 @@
         "query": "What was net income of United airlines in the year 2018 ?",
         "table_name": "tab-4",
         "expected_gold_answer": "$2,129",
-        "output_prediction": "2,144",
+        "output_prediction": "$2,129",
         "iterations": 3,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How much income tax was paid by United airlines in the year 2018 ? : tab-4": {
@@ -498,9 +498,9 @@
         "query": "what is the consolidated operating cost per seat mile in 2016?",
         "table_name": "tab-17",
         "expected_gold_answer": "12.98\u00a2",
-        "output_prediction": "12.98",
+        "output_prediction": "12.98\u00a2",
         "iterations": 3,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "what was the total revenue per ASM for Delta airlines in 2016 ? : tab-17": {
@@ -534,10 +534,10 @@
         "query": "How many passengers used United un year 2017?",
         "table_name": "tab-1",
         "expected_gold_answer": "148,067",
-        "output_prediction": "154434",
+        "output_prediction": "148,067",
         "iterations": 2,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "what is the second quarter 2019 accelerated share program shares received of Southwest Airlines in 2019? : tab-16": {
         "query": "what is the second quarter 2019 accelerated share program shares received of Southwest Airlines in 2019?",
@@ -552,10 +552,10 @@
         "query": "How much money was invested by Southwest in Accelerated Share Repurchase Program in second quarter 2019?",
         "table_name": "tab-16",
         "expected_gold_answer": "400",
-        "output_prediction": "7.82",
+        "output_prediction": "400",
         "iterations": 2,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "How much money was invested by Southwest to buy open market shares in 2019? : tab-16": {
         "query": "How much money was invested by Southwest to buy open market shares in 2019?",
@@ -651,10 +651,10 @@
         "query": "What is the Average Price Per Fuel Gallon Delta reported in 2017?",
         "table_name": "tab-17",
         "expected_gold_answer": "$1.68",
-        "output_prediction": "0.19",
+        "output_prediction": "$1.68",
         "iterations": 2,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "What was the revenue passenger miles for Delta airlines in 2017? : tab-17": {
         "query": "What was the revenue passenger miles for Delta airlines in 2017?",
@@ -697,7 +697,7 @@
         "table_name": "tab-17",
         "expected_gold_answer": "86,564",
         "output_prediction": "77,755",
-        "iterations": 2,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -966,9 +966,9 @@
         "query": "what is the Net income in the year 2019 by United?",
         "table_name": "tab-28",
         "expected_gold_answer": "$3,009",
-        "output_prediction": "3009",
+        "output_prediction": "$3,009",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How many Boeing 737 were owned by SouthWest in 2018? : tab-30": {
@@ -1057,7 +1057,7 @@
         "table_name": "tab-31",
         "expected_gold_answer": "Tammy Romo",
         "output_prediction": "Tammy Romo",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1065,9 +1065,9 @@
         "query": "How much was the traffic for Southwest Airlines for year 2014?",
         "table_name": "tab-32",
         "expected_gold_answer": "108,035,133",
-        "output_prediction": "108,035,133, 131,003,957",
-        "iterations": 2,
-        "EM": 0,
+        "output_prediction": "108,035,133",
+        "iterations": 4,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the ASM of Southwest in year 2016? : tab-32": {
@@ -1075,7 +1075,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "148,522,051",
         "output_prediction": "148,522,051",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1084,7 +1084,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "140,501,409",
         "output_prediction": "184955094",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1092,10 +1092,10 @@
         "query": "What was the passenger load factor for Southwest in year 2015?",
         "table_name": "tab-32",
         "expected_gold_answer": "83.6%",
-        "output_prediction": "84.0%",
-        "iterations": 3,
+        "output_prediction": "83.6 percent",
+        "iterations": 5,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "For Southwest, what was the average stage length in year 2018? : tab-32": {
         "query": "For Southwest, what was the average stage length in year 2018?",
@@ -1111,7 +1111,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "12.80",
         "output_prediction": "12.80",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1129,7 +1129,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "108,035,133",
         "output_prediction": "108,035,133",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1138,7 +1138,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "140,501,409",
         "output_prediction": "117,499,879",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1209,10 +1209,10 @@
         "query": "what is the net income of southwest in the June quarter of 2018?",
         "table_name": "tab-36",
         "expected_gold_answer": "733",
-        "output_prediction": "1.23",
+        "output_prediction": "Net Income = 733",
         "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "How much net income did Southwest Airlines report in Q2 2018 ? : tab-36": {
         "query": "How much net income did Southwest Airlines report in Q2 2018 ?",
@@ -1281,10 +1281,10 @@
         "query": "How many pilots does American Airlines have for the Piedmont with contract amendable date as 2024 ?",
         "table_name": "tab-38",
         "expected_gold_answer": "550",
-        "output_prediction": "50",
+        "output_prediction": "Five hundred and fifty",
         "iterations": 5,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "How many Fleet and passenger service does American Airlines have for the Piedmont with contract amendable date as 2017? : tab-38": {
         "query": "How many Fleet and passenger service does American Airlines have for the Piedmont with contract amendable date as 2017?",
@@ -1354,7 +1354,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "2016",
         "output_prediction": "2016",
-        "iterations": 2,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1363,7 +1363,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "21.4%",
         "output_prediction": "21.4%",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1381,7 +1381,7 @@
         "table_name": "tab-40",
         "expected_gold_answer": "4",
         "output_prediction": "4",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1399,7 +1399,7 @@
         "table_name": "tab-40",
         "expected_gold_answer": "38",
         "output_prediction": "38",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1407,10 +1407,10 @@
         "query": "What was American Airlines' total number of leased Airbus A321 airplanes in 2017?",
         "table_name": "tab-40",
         "expected_gold_answer": "38",
-        "output_prediction": "54",
-        "iterations": 1,
+        "output_prediction": "Thirty-eight",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "On average how old were the Airbus A321 fleet for American Airlines in 2017? : tab-40": {
         "query": "On average how old were the Airbus A321 fleet for American Airlines in 2017?",
@@ -1479,10 +1479,10 @@
         "query": "How many IAM employees did the Alaska Airlines have in 2018?",
         "table_name": "tab-45",
         "expected_gold_answer": "4,506",
-        "output_prediction": "688",
+        "output_prediction": "Four thousand five hundred and six",
         "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "Which employee group does Air Line Pilots Association, International (ALPA) represent for Alaska airlines in 2018? : tab-45": {
         "query": "Which employee group does Air Line Pilots Association, International (ALPA) represent for Alaska airlines in 2018?",
@@ -1515,10 +1515,10 @@
         "query": "What was the age of Alaska Air Group's CEO and Chairman in 2018 ?",
         "table_name": "tab-46",
         "expected_gold_answer": "58",
-        "output_prediction": "82",
-        "iterations": 3,
+        "output_prediction": "Fifty-eight",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "When did Benito Minicucci become the President and Chief Operating Officer of Alaska Airlines? : tab-46": {
         "query": "When did Benito Minicucci become the President and Chief Operating Officer of Alaska Airlines?",
@@ -1587,7 +1587,7 @@
         "query": "What was the change in yield value for Alaska Airlines between 2017 and 2018 based on consolidated operating statistics?",
         "table_name": "tab-51",
         "expected_gold_answer": "0.1%",
-        "output_prediction": "(5.2)%",
+        "output_prediction": "0.1 percent",
         "iterations": 4,
         "EM": 0,
         "LLM_EVAL": 1
@@ -1596,10 +1596,10 @@
         "query": "What was the ASMs capacity of Alaska Airlines in 2018 ?",
         "table_name": "tab-51",
         "expected_gold_answer": "59,187",
-        "output_prediction": "6,148",
+        "output_prediction": "Fifty-nine thousand one hundred and eighty-seven",
         "iterations": 1,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "What is the cost of Raw or \"into-plane\" fuel in Dollars for the Alaska Airline in 2018? : tab-52": {
         "query": "What is the cost of Raw or \"into-plane\" fuel in Dollars for the Alaska Airline in 2018?",
@@ -1641,19 +1641,19 @@
         "query": "What is the change of pension cost (in millions) for Alaska airline in 2018 comparing to the previous year?",
         "table_name": "tab-53",
         "expected_gold_answer": "23.1%",
-        "output_prediction": "0.09",
-        "iterations": 2,
+        "output_prediction": "23.1 percent",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "How much did the wages increase in 2018 for Alaska Airlines compared to 2017 ? : tab-53": {
         "query": "How much did the wages increase in 2018 for Alaska Airlines compared to 2017 ?",
         "table_name": "tab-53",
         "expected_gold_answer": "12.9%",
-        "output_prediction": "190",
-        "iterations": 1,
+        "output_prediction": "12.9 percent",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "How much did Alaska Airlines pay for the payroll taxes by the end of 2018? : tab-53": {
         "query": "How much did Alaska Airlines pay for the payroll taxes by the end of 2018?",
@@ -1677,9 +1677,9 @@
         "query": "What is the amount of long-term debt (in millions) for Alaska Airline by the end of 2018?",
         "table_name": "tab-54",
         "expected_gold_answer": "$1,617",
-        "output_prediction": "1617",
+        "output_prediction": "$1,617",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the change in stockholders' equity from 2017 to 2018 for Alaska Airlines ? : tab-54": {
@@ -1777,7 +1777,7 @@
         "table_name": "tab-57",
         "expected_gold_answer": "64",
         "output_prediction": "64",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1785,8 +1785,8 @@
         "query": "What is the highest stock rate of UAL in the second quarter of 2016?",
         "table_name": "tab-59",
         "expected_gold_answer": "58.90",
-        "output_prediction": "$58.90",
-        "iterations": 2,
+        "output_prediction": "58.90",
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1804,7 +1804,7 @@
         "table_name": "tab-60",
         "expected_gold_answer": "1,084,498",
         "output_prediction": "1,084,498",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1813,7 +1813,7 @@
         "table_name": "tab-60",
         "expected_gold_answer": "1,084,498",
         "output_prediction": "9,279,850",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1867,7 +1867,7 @@
         "table_name": "tab-64",
         "expected_gold_answer": "248",
         "output_prediction": "",
-        "iterations": 4,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1884,9 +1884,9 @@
         "query": "What was the liquidity of the American Airlines Group at the end of 2019?",
         "table_name": "tab-68",
         "expected_gold_answer": "$7,069",
-        "output_prediction": "$7,053",
-        "iterations": 1,
-        "EM": 0,
+        "output_prediction": "$7,069",
+        "iterations": 4,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the value of American Airlines' short-term investments by the end of 2019? : tab-68": {
@@ -1902,8 +1902,8 @@
         "query": "What was American Airlines' total cash payment for dividends during 2019?",
         "table_name": "tab-69",
         "expected_gold_answer": "$178",
-        "output_prediction": "178",
-        "iterations": 2,
+        "output_prediction": "$178",
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1912,7 +1912,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "3,179",
         "output_prediction": "3,179",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1921,7 +1921,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "$38,831",
         "output_prediction": "40,676",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1930,7 +1930,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "40,676",
         "output_prediction": "890",
-        "iterations": 2,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1938,27 +1938,27 @@
         "query": "What is the loyalty revenue for marketing services as of 2018 for American Airlines?",
         "table_name": "tab-70",
         "expected_gold_answer": "890",
-        "output_prediction": "2,352",
-        "iterations": 1,
+        "output_prediction": "Eight hundred and ninety",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "What was American Airlines' total amount of passenger revenue from passenger travel in the year 2019? : tab-70": {
         "query": "What was American Airlines' total amount of passenger revenue from passenger travel in the year 2019?",
         "table_name": "tab-70",
         "expected_gold_answer": "2,352",
-        "output_prediction": "38831",
-        "iterations": 1,
+        "output_prediction": "Two thousand three hundred and fifty-two",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "How much did American pay for benefits in 2019? : tab-71": {
         "query": "How much did American pay for benefits in 2019?",
         "table_name": "tab-71",
         "expected_gold_answer": "( 689 )",
-        "output_prediction": "689",
-        "iterations": 2,
-        "EM": 0,
+        "output_prediction": "( 689 )",
+        "iterations": 4,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "As of 2018, how much employer contribution has been made by American Airlines for pension benefits? : tab-71": {
@@ -1966,7 +1966,7 @@
         "table_name": "tab-71",
         "expected_gold_answer": "475",
         "output_prediction": "475",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1974,18 +1974,18 @@
         "query": "What was the total amount of pension benefit payments for American Airlines in 2019?",
         "table_name": "tab-71",
         "expected_gold_answer": "( 689 )",
-        "output_prediction": "689",
+        "output_prediction": "( 689 )",
         "iterations": 3,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What was the value of American Airlines' total investments at the end of 2018? : tab-72": {
         "query": "What was the value of American Airlines' total investments at the end of 2018?",
         "table_name": "tab-72",
         "expected_gold_answer": "$4,825",
-        "output_prediction": "4825",
+        "output_prediction": "$4,825",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "As of 2018, how much was invested on level 2 short term repurchase agreements by American Airlines? : tab-72": {
@@ -2118,10 +2118,10 @@
         "query": "How many active employees are represented by PAFCA for Delta Airlines in 2018?",
         "table_name": "tab-74",
         "expected_gold_answer": "60",
-        "output_prediction": "432",
+        "output_prediction": "60",
         "iterations": 3,
-        "EM": false,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "In 2018, what was the number of Delta Flight Superintendents represented by PAFCA? : tab-74": {
         "query": "In 2018, what was the number of Delta Flight Superintendents represented by PAFCA?",
@@ -2147,8 +2147,8 @@
         "expected_gold_answer": "Endeavor Air Flight Attendants (1)",
         "output_prediction": "Endeavor Air Flight Attendants (1)",
         "iterations": 2,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "How many B-717-200 are owned by Delta airlines in the current fleet for the year 2018? : tab-75": {
         "query": "How many B-717-200 are owned by Delta airlines in the current fleet for the year 2018?",
@@ -2163,17 +2163,17 @@
         "query": "How many total aircrafts are on finance lease in the current fleet for Delta airlines in the year 2018?",
         "table_name": "tab-75",
         "expected_gold_answer": "46",
-        "output_prediction": "92",
-        "iterations": 3,
+        "output_prediction": "Forty-six",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "In 2018, what is the average age of all the current fleet in Delta airlines? : tab-75": {
         "query": "In 2018, what is the average age of all the current fleet in Delta airlines?",
         "table_name": "tab-75",
         "expected_gold_answer": "16.0",
         "output_prediction": "17.3",
-        "iterations": 3,
+        "iterations": 4,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2182,7 +2182,7 @@
         "table_name": "tab-75",
         "expected_gold_answer": "100",
         "output_prediction": "100",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2200,7 +2200,7 @@
         "table_name": "tab-76",
         "expected_gold_answer": "154",
         "output_prediction": "154",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2218,7 +2218,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "24",
         "output_prediction": "24",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2227,7 +2227,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "108",
         "output_prediction": "108",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2235,17 +2235,17 @@
         "query": "What is the total number of aircraft on Delta airlines' purchase commitments as of the end of 2018? ",
         "table_name": "tab-77",
         "expected_gold_answer": "330",
-        "output_prediction": "108",
-        "iterations": 2,
+        "output_prediction": "Three hundred and thirty",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "How many A350-900 has Delta commited to purchase in total as of December 31, 2018? : tab-77": {
         "query": "How many A350-900 has Delta commited to purchase in total as of December 31, 2018?",
         "table_name": "tab-77",
         "expected_gold_answer": "14",
         "output_prediction": "14",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2254,7 +2254,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "108",
         "output_prediction": "108",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2263,7 +2263,7 @@
         "table_name": "tab-78",
         "expected_gold_answer": "1,538,432",
         "output_prediction": "1,538,432",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2326,7 +2326,7 @@
         "table_name": "tab-78",
         "expected_gold_answer": "$56.38",
         "output_prediction": "123456789.64",
-        "iterations": 3,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2335,7 +2335,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$44,438",
         "output_prediction": "$44,438",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2461,7 +2461,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$3,935",
         "output_prediction": "4526",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2523,9 +2523,9 @@
         "query": "what is the consolidated average price per fuel gallon in 2017 for Delta Airlines?",
         "table_name": "tab-80",
         "expected_gold_answer": "$1.68",
-        "output_prediction": "$1.49",
+        "output_prediction": "$1.68",
         "iterations": 4,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "what is the average price in 2016 in Delta airlines? : tab-80": {
@@ -2542,7 +2542,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "$3.47",
         "output_prediction": "$2.20",
-        "iterations": 4,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2559,9 +2559,9 @@
         "query": "How much revenue has been made per available seat mile for Delta Airlines in 2016?",
         "table_name": "tab-80",
         "expected_gold_answer": "14.22\u00a2",
-        "output_prediction": "15.66\u00a2",
+        "output_prediction": "14.22\u00a2",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What is the operating cost per available seat mile in 2015 for Delta Airlines? : tab-80": {
@@ -2632,7 +2632,7 @@
         "table_name": "tab-81",
         "expected_gold_answer": "4,447",
         "output_prediction": "4.447",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2695,7 +2695,7 @@
         "table_name": "tab-88",
         "expected_gold_answer": "$472",
         "output_prediction": "$1,568",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2704,7 +2704,7 @@
         "table_name": "tab-88",
         "expected_gold_answer": "2,089",
         "output_prediction": "$1,568",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2713,7 +2713,7 @@
         "table_name": "tab-89",
         "expected_gold_answer": "4,485",
         "output_prediction": "4828",
-        "iterations": 2,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2722,7 +2722,7 @@
         "table_name": "tab-89",
         "expected_gold_answer": "4,469",
         "output_prediction": "$4,611",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2730,9 +2730,9 @@
         "query": "What was the overall value of American Airlines' investments in 2018?",
         "table_name": "tab-89",
         "expected_gold_answer": "$4,828",
-        "output_prediction": "4828",
+        "output_prediction": "$4,828",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "What is American Airlines' labor contract expense in 2018? : tab-92": {
@@ -2811,17 +2811,17 @@
         "query": "What percentage of Alaska's mainline passenger capacity in 2014 came from Hawaii?",
         "table_name": "tab-95",
         "expected_gold_answer": "20%",
-        "output_prediction": "125%",
-        "iterations": 2,
+        "output_prediction": "20 percent",
+        "iterations": 4,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "Which of Alaska Air Group's regions had the largest regional passenger capacity for 2016? : tab-96": {
         "query": "Which of Alaska Air Group's regions had the largest regional passenger capacity for 2016?",
         "table_name": "tab-96",
         "expected_gold_answer": "West Coast",
         "output_prediction": "60%",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2903,7 +2903,7 @@
         "expected_gold_answer": "Transport Workers Union of America (TWU)",
         "output_prediction": "Transport Workers Union of America (TWU)",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "When was Peter Hunt made COO for Virgin America? : tab-102": {
@@ -2983,7 +2983,7 @@
         "table_name": "tab-104",
         "expected_gold_answer": "91.88",
         "output_prediction": "91.88",
-        "iterations": 2,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3036,9 +3036,9 @@
         "query": "How much did Alaska Airlines grow its freight revenue in 2016?",
         "table_name": "tab-106",
         "expected_gold_answer": "\u2014%",
-        "output_prediction": "108",
+        "output_prediction": "\u2014%",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "By how much did Alaska's mainline passenger revenue increase from 2015 to 2016? : tab-106": {
@@ -3046,7 +3046,7 @@
         "table_name": "tab-106",
         "expected_gold_answer": "4.0%",
         "output_prediction": "$159",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3063,9 +3063,9 @@
         "query": "How much did Alaska's operating revenues from freight and mail change between 2015 and 2016?",
         "table_name": "tab-106",
         "expected_gold_answer": "\u2014%",
-        "output_prediction": "$108, $108",
+        "output_prediction": "\u2014%",
         "iterations": 3,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How much long term debt did Alaska airlines have in 2017? : tab-107": {
@@ -3090,10 +3090,10 @@
         "query": "How much money was spent by Southwest on fuel in year in 2004?",
         "table_name": "tab-108",
         "expected_gold_answer": "$1,470",
-        "output_prediction": "$1,106",
+        "output_prediction": "$1,470",
         "iterations": 3,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "In 2010, what percentage of operating expenses of Southwest was spent on fuel? : tab-108": {
         "query": "In 2010, what percentage of operating expenses of Southwest was spent on fuel?",
@@ -3270,10 +3270,10 @@
         "query": "What was Southwest's available seat miles (in millions) in the year 2017 ?",
         "table_name": "tab-112",
         "expected_gold_answer": "153,811,072",
-        "output_prediction": "153,811",
-        "iterations": 1,
+        "output_prediction": "Approx. 153,811,072",
+        "iterations": 5,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "what was Southwest operating revenue per available ASM in the year 2017 ? : tab-112": {
         "query": "what was Southwest operating revenue per available ASM in the year 2017 ?",
@@ -3306,9 +3306,9 @@
         "query": "Return Southwest's 2017 traffic.",
         "table_name": "tab-112",
         "expected_gold_answer": "129,041,420",
-        "output_prediction": "129,041,420, 130,256,190",
+        "output_prediction": "129,041,420",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How many planes did Southwest own in 2013? : tab-112": {
@@ -3324,9 +3324,9 @@
         "query": "What was Southwest's net income in 2015?",
         "table_name": "tab-112",
         "expected_gold_answer": "$2,181",
-        "output_prediction": "2181",
+        "output_prediction": "$2,181",
         "iterations": 2,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How much was the income of Southwest from operations, in 2015? : tab-112": {
@@ -3351,10 +3351,10 @@
         "query": "What percentage of Southwest's available seating capacity was filled with passengers in 2016?",
         "table_name": "tab-112",
         "expected_gold_answer": "84.0%",
-        "output_prediction": "84.05",
-        "iterations": 2,
+        "output_prediction": "84 percent",
+        "iterations": 5,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "What was the number of trips flown by Southwest airlines in 2014? : tab-112": {
         "query": "What was the number of trips flown by Southwest airlines in 2014?",
@@ -3432,10 +3432,10 @@
         "query": "In 2018, what is the total number of aircraft in the current fleet of Delta airlines on finance lease?",
         "table_name": "tab-75",
         "expected_gold_answer": "46",
-        "output_prediction": "30",
-        "iterations": 3,
+        "output_prediction": "fourty six",
+        "iterations": 5,
         "EM": false,
-        "LLM_EVAL": 0
+        "LLM_EVAL": 1
     },
     "what are the available seat miles in 2016 for Delta Airlines? : tab-80": {
         "query": "what are the available seat miles in 2016 for Delta Airlines?",
@@ -3450,10 +3450,10 @@
         "query": "As of the end of 2018, what is the value of American Airlines' finance lease liabilities that mature within a year?",
         "table_name": "tab-87",
         "expected_gold_answer": "$124",
-        "output_prediction": "(81)",
+        "output_prediction": "$124",
         "iterations": 1,
-        "EM": 0,
-        "LLM_EVAL": 0
+        "EM": 1,
+        "LLM_EVAL": 1
     },
     "How much money did Alaska airlines spend on medical benefits of its employees in 2017 ? : tab-105": {
         "query": "How much money did Alaska airlines spend on medical benefits of its employees in 2017 ?",
@@ -3468,9 +3468,9 @@
         "query": "Which labour union represents Dispatchers of Southwest airlines?",
         "table_name": "tab-110",
         "expected_gold_answer": "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
-        "output_prediction": "Transportation Workers of America, AFL-CIO, Local 550 ('TWU 550')",
+        "output_prediction": "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
         "iterations": 1,
-        "EM": 0,
+        "EM": 1,
         "LLM_EVAL": 1
     },
     "How many planes did Southwest operate at the end of 2017? : tab-111": {

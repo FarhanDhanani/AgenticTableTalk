@@ -4,7 +4,7 @@
         "table_name": "tab-0",
         "expected_gold_answer": "$5,813",
         "output_prediction": "$5,813",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -13,7 +13,7 @@
         "table_name": "tab-0",
         "expected_gold_answer": "4,137",
         "output_prediction": "4,137",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -22,7 +22,7 @@
         "table_name": "tab-0",
         "expected_gold_answer": "$2.25",
         "output_prediction": "$2.25",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -31,7 +31,7 @@
         "table_name": "tab-0",
         "expected_gold_answer": "24%",
         "output_prediction": "24%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -40,7 +40,7 @@
         "table_name": "tab-0",
         "expected_gold_answer": "$5,813",
         "output_prediction": "$5,813",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -49,7 +49,7 @@
         "table_name": "tab-0",
         "expected_gold_answer": "$5,813",
         "output_prediction": "$5,813",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -58,7 +58,7 @@
         "table_name": "tab-0",
         "expected_gold_answer": "18%",
         "output_prediction": "18%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -67,7 +67,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "230,155",
         "output_prediction": "230,155",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -76,7 +76,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "253,590",
         "output_prediction": "253,590",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -85,7 +85,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "15.72",
         "output_prediction": "15.72",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -94,7 +94,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "13.00",
         "output_prediction": "13.00",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -103,7 +103,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "230,155",
         "output_prediction": "230,155",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -112,7 +112,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "253,590",
         "output_prediction": "253,590",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -121,7 +121,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "15.72",
         "output_prediction": "15.72",
-        "iterations": 2,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -139,7 +139,7 @@
         "table_name": "tab-1",
         "expected_gold_answer": "1,480",
         "output_prediction": "1,480",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -148,7 +148,7 @@
         "table_name": "tab-4",
         "expected_gold_answer": "1,114",
         "output_prediction": "1,114",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -157,7 +157,7 @@
         "table_name": "tab-4",
         "expected_gold_answer": "9,307",
         "output_prediction": "9,307",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -175,7 +175,7 @@
         "table_name": "tab-4",
         "expected_gold_answer": "$2,129",
         "output_prediction": "$2,129",
-        "iterations": 2,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -184,7 +184,7 @@
         "table_name": "tab-7",
         "expected_gold_answer": "680",
         "output_prediction": "680",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -193,7 +193,7 @@
         "table_name": "tab-7",
         "expected_gold_answer": "41,303",
         "output_prediction": "41,303",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -202,7 +202,7 @@
         "table_name": "tab-7",
         "expected_gold_answer": "1,767",
         "output_prediction": "1,767",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -211,7 +211,7 @@
         "table_name": "tab-7",
         "expected_gold_answer": "680",
         "output_prediction": "680",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -220,7 +220,7 @@
         "table_name": "tab-7",
         "expected_gold_answer": "$2,163",
         "output_prediction": "$2,163",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -229,7 +229,7 @@
         "table_name": "tab-9",
         "expected_gold_answer": "$63",
         "output_prediction": "$63",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -238,7 +238,7 @@
         "table_name": "tab-9",
         "expected_gold_answer": "$63",
         "output_prediction": "$63",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -247,7 +247,7 @@
         "table_name": "tab-9",
         "expected_gold_answer": "$101",
         "output_prediction": "$101",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -256,7 +256,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "131,345",
         "output_prediction": "117,500",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -265,7 +265,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "133,322",
         "output_prediction": "133,322",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -274,7 +274,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "157,254",
         "output_prediction": "140,501",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -283,7 +283,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "159,795",
         "output_prediction": "159,795",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -292,7 +292,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "83.5%",
         "output_prediction": "83.5%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -301,7 +301,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "15.34",
         "output_prediction": "15.34",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -310,7 +310,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "9.62",
         "output_prediction": "8.60",
-        "iterations": 2,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -319,7 +319,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "2,045",
         "output_prediction": "2,045",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -328,7 +328,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "150.7",
         "output_prediction": "150.7",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -337,7 +337,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "133,322",
         "output_prediction": "133,322",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -346,7 +346,7 @@
         "table_name": "tab-12",
         "expected_gold_answer": "159,795",
         "output_prediction": "159,795",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -355,7 +355,7 @@
         "table_name": "tab-14",
         "expected_gold_answer": "7.3",
         "output_prediction": "7.3",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -364,7 +364,7 @@
         "table_name": "tab-14",
         "expected_gold_answer": "2.76",
         "output_prediction": "2.76",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -373,7 +373,7 @@
         "table_name": "tab-15",
         "expected_gold_answer": "400",
         "output_prediction": "400",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -382,7 +382,7 @@
         "table_name": "tab-15",
         "expected_gold_answer": "16,000",
         "output_prediction": "16000",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -391,7 +391,7 @@
         "table_name": "tab-15",
         "expected_gold_answer": "400",
         "output_prediction": "400",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -400,7 +400,7 @@
         "table_name": "tab-15",
         "expected_gold_answer": "130",
         "output_prediction": "130",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -409,7 +409,7 @@
         "table_name": "tab-15",
         "expected_gold_answer": "10",
         "output_prediction": "10",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -418,7 +418,7 @@
         "table_name": "tab-15",
         "expected_gold_answer": "June 2019",
         "output_prediction": "June 2019",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -427,7 +427,7 @@
         "table_name": "tab-16",
         "expected_gold_answer": "400",
         "output_prediction": "400",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -436,7 +436,7 @@
         "table_name": "tab-16",
         "expected_gold_answer": "0.95",
         "output_prediction": "0.95",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -445,7 +445,7 @@
         "table_name": "tab-16",
         "expected_gold_answer": "9.38",
         "output_prediction": "9.38",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -760,7 +760,7 @@
         "table_name": "tab-25",
         "expected_gold_answer": "208,611",
         "output_prediction": "140,369, 208,611",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -922,7 +922,7 @@
         "table_name": "tab-28",
         "expected_gold_answer": "288",
         "output_prediction": "0.288",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -958,7 +958,7 @@
         "table_name": "tab-28",
         "expected_gold_answer": "11,458",
         "output_prediction": "12,071",
-        "iterations": 1,
+        "iterations": 4,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1165,7 +1165,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "140,501,409",
         "output_prediction": "117,499,879",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1183,7 +1183,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "58,803",
         "output_prediction": "58,803",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1192,7 +1192,7 @@
         "table_name": "tab-32",
         "expected_gold_answer": "$151.73",
         "output_prediction": "$151.73",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1201,7 +1201,7 @@
         "table_name": "tab-33",
         "expected_gold_answer": "0.24",
         "output_prediction": "0.24",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1210,7 +1210,7 @@
         "table_name": "tab-33",
         "expected_gold_answer": "0.24",
         "output_prediction": "0.24",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1219,7 +1219,7 @@
         "table_name": "tab-33",
         "expected_gold_answer": "6.2",
         "output_prediction": "6.2",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1228,7 +1228,7 @@
         "table_name": "tab-33",
         "expected_gold_answer": "0.75",
         "output_prediction": "0.75",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1237,7 +1237,7 @@
         "table_name": "tab-36",
         "expected_gold_answer": "733",
         "output_prediction": "733",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1246,7 +1246,7 @@
         "table_name": "tab-36",
         "expected_gold_answer": "733",
         "output_prediction": "733",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1264,7 +1264,7 @@
         "table_name": "tab-37",
         "expected_gold_answer": "2,200",
         "output_prediction": "2,200",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1273,7 +1273,7 @@
         "table_name": "tab-37",
         "expected_gold_answer": "24,900",
         "output_prediction": "24,900",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1282,7 +1282,7 @@
         "table_name": "tab-37",
         "expected_gold_answer": "1,300",
         "output_prediction": "1,300",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1291,7 +1291,7 @@
         "table_name": "tab-38",
         "expected_gold_answer": "550",
         "output_prediction": "550",
-        "iterations": 3,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1300,7 +1300,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "4,352",
         "output_prediction": "4,352",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1309,7 +1309,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "$1.73",
         "output_prediction": "$1.73",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1318,7 +1318,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "19.7%",
         "output_prediction": "19.7%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1336,7 +1336,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "$1.73",
         "output_prediction": "$1.73",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1345,7 +1345,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "19.7%",
         "output_prediction": "19.7%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1354,7 +1354,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "2016",
         "output_prediction": "2016",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1363,7 +1363,7 @@
         "table_name": "tab-39",
         "expected_gold_answer": "21.4%",
         "output_prediction": "21.4%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1372,7 +1372,7 @@
         "table_name": "tab-40",
         "expected_gold_answer": "4",
         "output_prediction": "4",
-        "iterations": 2,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1399,7 +1399,7 @@
         "table_name": "tab-40",
         "expected_gold_answer": "38",
         "output_prediction": "38",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1408,7 +1408,7 @@
         "table_name": "tab-40",
         "expected_gold_answer": "5.4",
         "output_prediction": "5.4",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1417,7 +1417,7 @@
         "table_name": "tab-40",
         "expected_gold_answer": "304",
         "output_prediction": "Insufficient data",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1435,7 +1435,7 @@
         "table_name": "tab-40",
         "expected_gold_answer": "948",
         "output_prediction": "948",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1453,7 +1453,7 @@
         "table_name": "tab-43",
         "expected_gold_answer": "1,298",
         "output_prediction": "1,298",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1462,7 +1462,7 @@
         "table_name": "tab-44",
         "expected_gold_answer": "468",
         "output_prediction": "468",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1471,7 +1471,7 @@
         "table_name": "tab-45",
         "expected_gold_answer": "4,506",
         "output_prediction": "4,506",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1480,7 +1480,7 @@
         "table_name": "tab-45",
         "expected_gold_answer": "Pilots",
         "output_prediction": "Pilots",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1489,7 +1489,7 @@
         "table_name": "tab-45",
         "expected_gold_answer": "5,815",
         "output_prediction": "5,815",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1498,7 +1498,7 @@
         "table_name": "tab-46",
         "expected_gold_answer": "52",
         "output_prediction": "52",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1507,7 +1507,7 @@
         "table_name": "tab-46",
         "expected_gold_answer": "58",
         "output_prediction": "58",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1516,7 +1516,7 @@
         "table_name": "tab-46",
         "expected_gold_answer": "2004",
         "output_prediction": "2004",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1525,7 +1525,7 @@
         "table_name": "tab-46",
         "expected_gold_answer": "Executive Vice President and Chief Commercial Officer of Alaska Airlines, Inc.",
         "output_prediction": "Executive Vice President and Chief Commercial Officer of Alaska Airlines, Inc.",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1534,7 +1534,7 @@
         "table_name": "tab-47",
         "expected_gold_answer": "112",
         "output_prediction": "112",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1543,7 +1543,7 @@
         "table_name": "tab-47",
         "expected_gold_answer": "56",
         "output_prediction": "56",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1552,7 +1552,7 @@
         "table_name": "tab-48",
         "expected_gold_answer": "$65.21",
         "output_prediction": "$65.21",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1570,7 +1570,7 @@
         "table_name": "tab-51",
         "expected_gold_answer": "83.7%",
         "output_prediction": "83.7%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1579,7 +1579,7 @@
         "table_name": "tab-51",
         "expected_gold_answer": "0.1%",
         "output_prediction": "0.1%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1606,7 +1606,7 @@
         "table_name": "tab-37",
         "expected_gold_answer": "50",
         "output_prediction": "12,400",
-        "iterations": 2,
+        "iterations": 4,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1615,7 +1615,7 @@
         "table_name": "tab-38",
         "expected_gold_answer": "3,400",
         "output_prediction": "0",
-        "iterations": 2,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1633,7 +1633,7 @@
         "table_name": "tab-51",
         "expected_gold_answer": "59,187",
         "output_prediction": "65,335",
-        "iterations": 1,
+        "iterations": 4,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1651,7 +1651,7 @@
         "table_name": "tab-52",
         "expected_gold_answer": "839",
         "output_prediction": "0.000839",
-        "iterations": 3,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1660,7 +1660,7 @@
         "table_name": "tab-52",
         "expected_gold_answer": "$1,914",
         "output_prediction": "$1,914",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1669,7 +1669,7 @@
         "table_name": "tab-52",
         "expected_gold_answer": "$2.31",
         "output_prediction": "$2.31",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1678,7 +1678,7 @@
         "table_name": "tab-53",
         "expected_gold_answer": "23.1%",
         "output_prediction": "9",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1687,7 +1687,7 @@
         "table_name": "tab-53",
         "expected_gold_answer": "12.9%",
         "output_prediction": "$190",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1705,7 +1705,7 @@
         "table_name": "tab-53",
         "expected_gold_answer": "105",
         "output_prediction": "105",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1714,7 +1714,7 @@
         "table_name": "tab-54",
         "expected_gold_answer": "$1,617",
         "output_prediction": "$2,262",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1723,7 +1723,7 @@
         "table_name": "tab-54",
         "expected_gold_answer": "$291",
         "output_prediction": "$291",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1732,7 +1732,7 @@
         "table_name": "tab-55",
         "expected_gold_answer": "3,904",
         "output_prediction": "3,904",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1741,7 +1741,7 @@
         "table_name": "tab-55",
         "expected_gold_answer": "20%",
         "output_prediction": "20%",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1750,7 +1750,7 @@
         "table_name": "tab-55",
         "expected_gold_answer": "$1.49",
         "output_prediction": "$1.49",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1759,7 +1759,7 @@
         "table_name": "tab-55",
         "expected_gold_answer": "2015",
         "output_prediction": "2015",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1768,7 +1768,7 @@
         "table_name": "tab-56",
         "expected_gold_answer": "51",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1777,7 +1777,7 @@
         "table_name": "tab-57",
         "expected_gold_answer": "2.1",
         "output_prediction": "2.1",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1786,7 +1786,7 @@
         "table_name": "tab-57",
         "expected_gold_answer": "64",
         "output_prediction": "64",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1795,7 +1795,7 @@
         "table_name": "tab-57",
         "expected_gold_answer": "15",
         "output_prediction": "15",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1804,7 +1804,7 @@
         "table_name": "tab-57",
         "expected_gold_answer": "186",
         "output_prediction": "186",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1813,7 +1813,7 @@
         "table_name": "tab-57",
         "expected_gold_answer": "64",
         "output_prediction": "64",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1822,7 +1822,7 @@
         "table_name": "tab-59",
         "expected_gold_answer": "58.90",
         "output_prediction": "$58.90",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1831,7 +1831,7 @@
         "table_name": "tab-59",
         "expected_gold_answer": "56.51",
         "output_prediction": "$56.51",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1840,7 +1840,7 @@
         "table_name": "tab-60",
         "expected_gold_answer": "1,084,498",
         "output_prediction": "9,279,850",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1849,7 +1849,7 @@
         "table_name": "tab-60",
         "expected_gold_answer": "1,084,498",
         "output_prediction": "9,279,850",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1858,7 +1858,7 @@
         "table_name": "tab-60",
         "expected_gold_answer": "63.06",
         "output_prediction": "63.06",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1867,7 +1867,7 @@
         "table_name": "tab-62",
         "expected_gold_answer": "680",
         "output_prediction": "680",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1876,7 +1876,7 @@
         "table_name": "tab-62",
         "expected_gold_answer": "$11,045",
         "output_prediction": "$11,045",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1885,7 +1885,7 @@
         "table_name": "tab-62",
         "expected_gold_answer": "1,100",
         "output_prediction": "1,100",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1894,7 +1894,7 @@
         "table_name": "tab-63",
         "expected_gold_answer": "4,537",
         "output_prediction": "4,537",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1903,7 +1903,7 @@
         "table_name": "tab-63",
         "expected_gold_answer": "2.23",
         "output_prediction": "2.23",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1912,7 +1912,7 @@
         "table_name": "tab-64",
         "expected_gold_answer": "248",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1921,7 +1921,7 @@
         "table_name": "tab-64",
         "expected_gold_answer": "20",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -1948,7 +1948,7 @@
         "table_name": "tab-69",
         "expected_gold_answer": "$178",
         "output_prediction": "$178",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -1957,7 +1957,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "3,179",
         "output_prediction": "3,179",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -1966,7 +1966,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "$38,831",
         "output_prediction": "$40,676",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 0,
         "LLM_EVAL": 1
     },
@@ -1975,7 +1975,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "40,676",
         "output_prediction": "890",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1984,7 +1984,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "890",
         "output_prediction": "2,352",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -1993,7 +1993,7 @@
         "table_name": "tab-70",
         "expected_gold_answer": "2,352",
         "output_prediction": "$38,831",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2011,7 +2011,7 @@
         "table_name": "tab-71",
         "expected_gold_answer": "475",
         "output_prediction": "475",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2020,7 +2020,7 @@
         "table_name": "tab-71",
         "expected_gold_answer": "( 689 )",
         "output_prediction": "( 689 )",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 0,
         "LLM_EVAL": 1
     },
@@ -2029,7 +2029,7 @@
         "table_name": "tab-72",
         "expected_gold_answer": "$4,825",
         "output_prediction": "",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2038,7 +2038,7 @@
         "table_name": "tab-72",
         "expected_gold_answer": "375",
         "output_prediction": "375",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2047,7 +2047,7 @@
         "table_name": "tab-72",
         "expected_gold_answer": "375",
         "output_prediction": "375",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2065,7 +2065,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "$2.20",
         "output_prediction": "$2.20",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2074,7 +2074,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "$1.68",
         "output_prediction": "$1.68",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2083,7 +2083,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "4,016",
         "output_prediction": "4,016",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2092,7 +2092,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "4,113",
         "output_prediction": "4,113",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2101,7 +2101,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "4,113",
         "output_prediction": "4,113",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2110,7 +2110,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "$1.49",
         "output_prediction": "$1.49",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2119,7 +2119,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "23.0%",
         "output_prediction": "23.0%",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2128,7 +2128,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "$1.68",
         "output_prediction": "$1.68",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2137,7 +2137,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "$9,020",
         "output_prediction": "$9,020",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2146,7 +2146,7 @@
         "table_name": "tab-73",
         "expected_gold_answer": "$1.68",
         "output_prediction": "$1.68",
-        "iterations": 1,
+        "iterations": 2,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2164,7 +2164,7 @@
         "table_name": "tab-74",
         "expected_gold_answer": "AFA",
         "output_prediction": "AFA",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2173,7 +2173,7 @@
         "table_name": "tab-74",
         "expected_gold_answer": "60",
         "output_prediction": "432",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2182,7 +2182,7 @@
         "table_name": "tab-74",
         "expected_gold_answer": "432",
         "output_prediction": "432",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2191,7 +2191,7 @@
         "table_name": "tab-74",
         "expected_gold_answer": "13,203",
         "output_prediction": "13203",
-        "iterations": 1,
+        "iterations": 2,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2200,7 +2200,7 @@
         "table_name": "tab-74",
         "expected_gold_answer": "Endeavor Air Flight Attendants (1)",
         "output_prediction": "Endeavor Air Flight Attendants (1)",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2218,7 +2218,7 @@
         "table_name": "tab-75",
         "expected_gold_answer": "16.0",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2236,7 +2236,7 @@
         "table_name": "tab-75",
         "expected_gold_answer": "46",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2254,7 +2254,7 @@
         "table_name": "tab-76",
         "expected_gold_answer": "154",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2272,7 +2272,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "24",
         "output_prediction": "",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2281,7 +2281,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "108",
         "output_prediction": "I cannot answer this question.",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2290,7 +2290,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "330",
         "output_prediction": "The provided data does not contain information on Delta airlines' purchase commitments as of the end of 2018, therefore the question is unanswerable.",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2299,7 +2299,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "14",
         "output_prediction": "The question cannot be answered from the given data.",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2308,7 +2308,7 @@
         "table_name": "tab-77",
         "expected_gold_answer": "108",
         "output_prediction": "",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2344,7 +2344,7 @@
         "table_name": "tab-78",
         "expected_gold_answer": "2,188,178",
         "output_prediction": "1,538,432",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2362,7 +2362,7 @@
         "table_name": "tab-78",
         "expected_gold_answer": "1,538,432",
         "output_prediction": "1,538,432",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2371,7 +2371,7 @@
         "table_name": "tab-78",
         "expected_gold_answer": "$56.38",
         "output_prediction": "$53.25",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2380,7 +2380,7 @@
         "table_name": "tab-78",
         "expected_gold_answer": "$56.38",
         "output_prediction": "123222684.44",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2398,7 +2398,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "39,174",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 4,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2416,7 +2416,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$5.69",
         "output_prediction": "$5.69",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2425,7 +2425,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$5.59",
         "output_prediction": "$5.59",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2434,7 +2434,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$1.02",
         "output_prediction": "$1.02",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2461,7 +2461,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$4,526",
         "output_prediction": "$4,526",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2470,7 +2470,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$5.55",
         "output_prediction": "$5.55",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2479,7 +2479,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$40,704",
         "output_prediction": "$40,704",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2488,7 +2488,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$659",
         "output_prediction": "$659",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2497,7 +2497,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$41,138",
         "output_prediction": "$41,138",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2506,7 +2506,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$41,138",
         "output_prediction": "$41,138",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2515,7 +2515,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$3,935",
         "output_prediction": "$659",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2524,7 +2524,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "35,172",
         "output_prediction": "35,172",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2533,7 +2533,7 @@
         "table_name": "tab-79",
         "expected_gold_answer": "$5.69",
         "output_prediction": "$5.69",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2542,7 +2542,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "263,365",
         "output_prediction": "239,676",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2551,7 +2551,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "251,867",
         "output_prediction": "251,867",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2560,7 +2560,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "246,764",
         "output_prediction": "246,764",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2569,7 +2569,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "85.5%",
         "output_prediction": "85.5%",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2578,7 +2578,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "$2.20",
         "output_prediction": "$2.20",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2587,7 +2587,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "$1.68",
         "output_prediction": "$1.68",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2596,7 +2596,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "$1.49",
         "output_prediction": "$1.49",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2605,7 +2605,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "$3.47",
         "output_prediction": "$3.47",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2614,7 +2614,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "263,365",
         "output_prediction": "263,365",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2623,7 +2623,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "14.22\u00a2",
         "output_prediction": "15.66\u00a2",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 0,
         "LLM_EVAL": 1
     },
@@ -2632,7 +2632,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "13.33\u00a2",
         "output_prediction": "13.33\u00a2",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2650,7 +2650,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "86,564",
         "output_prediction": "86,564",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2659,7 +2659,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "84.7%",
         "output_prediction": "84.7%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2668,7 +2668,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "4,113",
         "output_prediction": "4,113",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2677,7 +2677,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "4,113",
         "output_prediction": "4,113",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2686,7 +2686,7 @@
         "table_name": "tab-80",
         "expected_gold_answer": "84.6%",
         "output_prediction": "84.6%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2695,7 +2695,7 @@
         "table_name": "tab-81",
         "expected_gold_answer": "4,447",
         "output_prediction": "4,447",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2704,7 +2704,7 @@
         "table_name": "tab-81",
         "expected_gold_answer": "4,447",
         "output_prediction": "4,447",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2722,7 +2722,7 @@
         "table_name": "tab-86",
         "expected_gold_answer": "40,676",
         "output_prediction": "40676",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2731,7 +2731,7 @@
         "table_name": "tab-86",
         "expected_gold_answer": "890",
         "output_prediction": "890",
-        "iterations": 1,
+        "iterations": 2,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2740,7 +2740,7 @@
         "table_name": "tab-86",
         "expected_gold_answer": "890",
         "output_prediction": "890",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2749,7 +2749,7 @@
         "table_name": "tab-87",
         "expected_gold_answer": "9,556",
         "output_prediction": "",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2758,7 +2758,7 @@
         "table_name": "tab-87",
         "expected_gold_answer": "$124",
         "output_prediction": "(81)",
-        "iterations": 3,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2776,7 +2776,7 @@
         "table_name": "tab-88",
         "expected_gold_answer": "2,089",
         "output_prediction": "$472",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2785,7 +2785,7 @@
         "table_name": "tab-89",
         "expected_gold_answer": "4,485",
         "output_prediction": "4.628",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2794,7 +2794,7 @@
         "table_name": "tab-89",
         "expected_gold_answer": "4,469",
         "output_prediction": "4611",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2803,7 +2803,7 @@
         "table_name": "tab-89",
         "expected_gold_answer": "$4,828",
         "output_prediction": "4828",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 0,
         "LLM_EVAL": 1
     },
@@ -2812,7 +2812,7 @@
         "table_name": "tab-92",
         "expected_gold_answer": "13",
         "output_prediction": "13",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2821,7 +2821,7 @@
         "table_name": "tab-92",
         "expected_gold_answer": "58",
         "output_prediction": "58",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2830,7 +2830,7 @@
         "table_name": "tab-94",
         "expected_gold_answer": "70%",
         "output_prediction": "70%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2839,7 +2839,7 @@
         "table_name": "tab-94",
         "expected_gold_answer": "1%",
         "output_prediction": "1%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2848,7 +2848,7 @@
         "table_name": "tab-94",
         "expected_gold_answer": "70%",
         "output_prediction": "70%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2857,7 +2857,7 @@
         "table_name": "tab-94",
         "expected_gold_answer": "12%",
         "output_prediction": "86%",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2866,7 +2866,7 @@
         "table_name": "tab-94",
         "expected_gold_answer": "15%",
         "output_prediction": "15%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2875,7 +2875,7 @@
         "table_name": "tab-95",
         "expected_gold_answer": "1,301",
         "output_prediction": "1,301",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2884,7 +2884,7 @@
         "table_name": "tab-95",
         "expected_gold_answer": "20%",
         "output_prediction": "It is impossible to answer this question from the given data.",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2893,7 +2893,7 @@
         "table_name": "tab-96",
         "expected_gold_answer": "West Coast",
         "output_prediction": "West Coast",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -2902,7 +2902,7 @@
         "table_name": "tab-96",
         "expected_gold_answer": "339",
         "output_prediction": "339",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2920,7 +2920,7 @@
         "table_name": "tab-99",
         "expected_gold_answer": "72%",
         "output_prediction": "72%",
-        "iterations": 3,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2929,7 +2929,7 @@
         "table_name": "tab-99",
         "expected_gold_answer": "18%",
         "output_prediction": "23.04%",
-        "iterations": 2,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -2938,7 +2938,7 @@
         "table_name": "tab-100",
         "expected_gold_answer": "11%",
         "output_prediction": "11%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2947,7 +2947,7 @@
         "table_name": "tab-100",
         "expected_gold_answer": "23%",
         "output_prediction": "23%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2956,7 +2956,7 @@
         "table_name": "tab-100",
         "expected_gold_answer": "11%",
         "output_prediction": "11%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -2965,7 +2965,7 @@
         "table_name": "tab-101",
         "expected_gold_answer": "4,392",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2974,7 +2974,7 @@
         "table_name": "tab-101",
         "expected_gold_answer": "Transport Workers Union of America (TWU)",
         "output_prediction": "",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -2983,7 +2983,7 @@
         "table_name": "tab-102",
         "expected_gold_answer": "2017",
         "output_prediction": "2017",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3001,7 +3001,7 @@
         "table_name": "tab-102",
         "expected_gold_answer": "51",
         "output_prediction": "51",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3010,7 +3010,7 @@
         "table_name": "tab-102",
         "expected_gold_answer": "2017",
         "output_prediction": "2017",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3019,7 +3019,7 @@
         "table_name": "tab-103",
         "expected_gold_answer": "304",
         "output_prediction": "304",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3028,7 +3028,7 @@
         "table_name": "tab-103",
         "expected_gold_answer": "76",
         "output_prediction": "76",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3037,7 +3037,7 @@
         "table_name": "tab-103",
         "expected_gold_answer": "35",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3046,7 +3046,7 @@
         "table_name": "tab-103",
         "expected_gold_answer": "7.4",
         "output_prediction": "I cannot answer this question.",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3055,7 +3055,7 @@
         "table_name": "tab-104",
         "expected_gold_answer": "91.88",
         "output_prediction": "91.88",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3064,7 +3064,7 @@
         "table_name": "tab-104",
         "expected_gold_answer": "71.17",
         "output_prediction": "71.17",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3073,7 +3073,7 @@
         "table_name": "tab-104",
         "expected_gold_answer": "91.88",
         "output_prediction": "$101.43",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 0,
         "LLM_EVAL": 1
     },
@@ -3082,7 +3082,7 @@
         "table_name": "tab-105",
         "expected_gold_answer": "216",
         "output_prediction": "216",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3109,7 +3109,7 @@
         "table_name": "tab-105",
         "expected_gold_answer": "105",
         "output_prediction": "105",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3118,7 +3118,7 @@
         "table_name": "tab-106",
         "expected_gold_answer": "\u2014%",
         "output_prediction": "\u2014%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3127,7 +3127,7 @@
         "table_name": "tab-106",
         "expected_gold_answer": "4.0%",
         "output_prediction": "159",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -3136,7 +3136,7 @@
         "table_name": "tab-106",
         "expected_gold_answer": "908",
         "output_prediction": "908",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3145,7 +3145,7 @@
         "table_name": "tab-106",
         "expected_gold_answer": "\u2014%",
         "output_prediction": "\u2014%",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3154,7 +3154,7 @@
         "table_name": "tab-107",
         "expected_gold_answer": "$2,262",
         "output_prediction": "$2,262",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3163,7 +3163,7 @@
         "table_name": "tab-108",
         "expected_gold_answer": "$2.12",
         "output_prediction": "$2.12",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3172,7 +3172,7 @@
         "table_name": "tab-108",
         "expected_gold_answer": "$1,470",
         "output_prediction": "$1,106",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3181,7 +3181,7 @@
         "table_name": "tab-108",
         "expected_gold_answer": "32.6%",
         "output_prediction": "32.6%",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3190,7 +3190,7 @@
         "table_name": "tab-109",
         "expected_gold_answer": "75.2",
         "output_prediction": "75.2",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3199,7 +3199,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "8,600",
         "output_prediction": "8,600",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3208,7 +3208,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "14,500",
         "output_prediction": "14,500",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3217,7 +3217,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "2,400",
         "output_prediction": "2,400",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3226,7 +3226,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "50",
         "output_prediction": "50",
-        "iterations": 2,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3235,7 +3235,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "10",
         "output_prediction": "10",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3244,7 +3244,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
         "output_prediction": "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3253,7 +3253,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "14,500",
         "output_prediction": "14,500",
-        "iterations": 1,
+        "iterations": 5,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3262,7 +3262,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "Amendable November 2018",
         "output_prediction": "Amendable November 2018",
-        "iterations": 1,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3271,7 +3271,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "Southwest Flight Simulator Technicians",
         "output_prediction": "Southwest Flight Simulator Technicians",
-        "iterations": 1,
+        "iterations": 3,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3280,7 +3280,7 @@
         "table_name": "tab-110",
         "expected_gold_answer": "10",
         "output_prediction": "10",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3289,7 +3289,7 @@
         "table_name": "tab-111",
         "expected_gold_answer": "175",
         "output_prediction": "175",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3298,7 +3298,7 @@
         "table_name": "tab-111",
         "expected_gold_answer": "13",
         "output_prediction": "13",
-        "iterations": 2,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3307,7 +3307,7 @@
         "table_name": "tab-111",
         "expected_gold_answer": "706",
         "output_prediction": "Insufficient data",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3316,7 +3316,7 @@
         "table_name": "tab-111",
         "expected_gold_answer": "143",
         "output_prediction": "143",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3325,7 +3325,7 @@
         "table_name": "tab-111",
         "expected_gold_answer": "122",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3334,7 +3334,7 @@
         "table_name": "tab-111",
         "expected_gold_answer": "11",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3343,7 +3343,7 @@
         "table_name": "tab-111",
         "expected_gold_answer": "706",
         "output_prediction": "",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3352,7 +3352,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "129,041,420",
         "output_prediction": "129.041420",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -3361,7 +3361,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "153,811,072",
         "output_prediction": "153,811,072",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3370,7 +3370,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "13.76",
         "output_prediction": "13.58",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -3379,7 +3379,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "8.92",
         "output_prediction": "1064.66",
-        "iterations": 1,
+        "iterations": 5,
         "EM": false,
         "LLM_EVAL": 0
     },
@@ -3388,7 +3388,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "2,045",
         "output_prediction": "2,045",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3397,7 +3397,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "129,041,420",
         "output_prediction": "129,041,420",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3406,7 +3406,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "681",
         "output_prediction": "681",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3415,7 +3415,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "$2,181",
         "output_prediction": "2,181",
-        "iterations": 1,
+        "iterations": 4,
         "EM": 1,
         "LLM_EVAL": 1
     },
@@ -3424,7 +3424,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "4,116",
         "output_prediction": "4,116",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3433,7 +3433,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "151,740,357",
         "output_prediction": "151,740,357",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3442,7 +3442,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "84.0%",
         "output_prediction": "84.0%",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3451,7 +3451,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "1,255,502",
         "output_prediction": "1,255,502",
-        "iterations": 1,
+        "iterations": 4,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3460,7 +3460,7 @@
         "table_name": "tab-112",
         "expected_gold_answer": "2,045",
         "output_prediction": "2,045",
-        "iterations": 1,
+        "iterations": 3,
         "EM": true,
         "LLM_EVAL": 1
     },
@@ -3469,7 +3469,7 @@
         "table_name": "tab-75",
         "expected_gold_answer": "46",
         "output_prediction": "",
-        "iterations": 3,
+        "iterations": 5,
         "EM": 0,
         "LLM_EVAL": 0
     },
@@ -3478,7 +3478,7 @@
         "table_name": "tab-108",
         "expected_gold_answer": "$990",
         "output_prediction": "$990",
-        "iterations": 2,
+        "iterations": 5,
         "EM": 1,
         "LLM_EVAL": 1
     }
